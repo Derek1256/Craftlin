@@ -1,0 +1,20 @@
+{
+    "name": "Xychorium Crystals",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:5",
+    "ingredient": {
+        "item": "xycraft_world:xychorium_gem_dark"
+    },
+    "color": "84f542",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_dust",
+        "essence": "mysticalagriculture:item/essence_gem",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    },
+    "baseSecondaryChance": 0.4,
+    "respectsEffectiveFarmalnd": false,
+    "recipes": {
+        "crafting": false
+    }
+
+}

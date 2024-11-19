@@ -1,0 +1,20 @@
+{
+    "name": "Entro Crystal",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagriculture:4",
+    "ingredient": {
+        "item": "extendedae:entro_crystal"
+    },
+    "color": "42f566",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_dust",
+        "essence": "mysticalagriculture:item/essence_gem",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    },
+    "baseSecondaryChance": 0.8,
+    "respectsEffectiveFarmalnd": false,
+    "recipes": {
+        "crafting": false
+    }
+
+}
