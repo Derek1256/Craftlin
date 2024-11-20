@@ -1,0 +1,29 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "AAAAAAAAA",
+      "ABCCBCCBA",
+      "ACBBBBBCA",
+      "ABCCBCCBA",
+      "AAAAAAAAA",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    "key": {
+      "A": {
+        "item": "avaritia:neutronium_ingot"
+      },
+      "B": {
+        "item": "avaritia:crystal_matrix_ingot"
+      },
+      "C": {
+        "item": "avaritia:infinity_catalyst"
+      }
+    },
+    "result": {
+      "id": "avaritia:infinity_ingot"
+    }
+  }

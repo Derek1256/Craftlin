@@ -866,8 +866,8 @@
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"productivebees:configurable_comb","components":{"productivebees:bee_type":"productivebees:gold"}},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"productivebees:configurable_honeycomb","components":{"productivebees:bee_type":"productivebees:obsidian"}},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"reliquary:mob_charm_fragment","components":{"reliquary:entity_name":"minecraft:pillager"}},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"reliquary:magazines/neutral_magazine","components":{"minecraft:potion_contents":{"custom_effects":[{"id":"reliquary:cure","show_icon":true,"neoforge:cures":["protected_by_totem","milk"],"amplifier":1,"duration":100}]}}},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"reliquary:bullets/neutral_bullet","components":{"minecraft:potion_contents":{"custom_effects":[{"id":"minecraft:resistance","show_icon":true,"neoforge:cures":["protected_by_totem","milk"],"amplifier":1,"duration":450}]}}},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"reliquary:magazines/neutral_magazine","components":{"minecraft:potion_contents":{"custom_effects":[{"id":"reliquary:cure","show_icon":true,"neoforge:cures":["milk","protected_by_totem"],"amplifier":1,"duration":100}]}}},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"reliquary:bullets/neutral_bullet","components":{"minecraft:potion_contents":{"custom_effects":[{"id":"minecraft:resistance","show_icon":true,"neoforge:cures":["milk","protected_by_totem"],"amplifier":1,"duration":450}]}}},"type":"item_stack"}},
   {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"minecraft:painting","components":{"minecraft:entity_data":{"variant":"minecraft:unpacked","id":"minecraft:painting"}}},"type":"item_stack"}},
   {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"minecraft:painting","components":{"minecraft:entity_data":{"variant":"minecraft:changing","id":"minecraft:painting"}}},"type":"item_stack"}},
   {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"minecraft:painting","components":{"minecraft:entity_data":{"variant":"minecraft:alban","id":"minecraft:painting"}}},"type":"item_stack"}},
@@ -947,8 +947,8 @@
   {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"actuallyadditions:triple_battery","components":{"actuallyadditions:energy":600000}},"type":"item_stack"}},
   {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"actuallyadditions:quadruple_battery","components":{"actuallyadditions:energy":1000000}},"type":"item_stack"}},
   {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"actuallyadditions:quintuple_battery","components":{"actuallyadditions:energy":2000000}},"type":"item_stack"}},
-  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"reliquary:potion_essence","components":{"minecraft:potion_contents":{"custom_effects":[{"id":"reliquary:cure","show_icon":true,"neoforge:cures":["protected_by_totem","milk"],"amplifier":1,"duration":500}]}}},"type":"item_stack"}},
-  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"reliquary:potion_essence","components":{"minecraft:potion_contents":{"custom_effects":[{"id":"reliquary:cure","show_icon":true,"neoforge:cures":["protected_by_totem","milk"],"duration":500}]}}},"type":"item_stack"}},
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"reliquary:potion_essence","components":{"minecraft:potion_contents":{"custom_effects":[{"id":"reliquary:cure","show_icon":true,"neoforge:cures":["milk","protected_by_totem"],"amplifier":1,"duration":500}]}}},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"reliquary:potion_essence","components":{"minecraft:potion_contents":{"custom_effects":[{"id":"reliquary:cure","show_icon":true,"neoforge:cures":["milk","protected_by_totem"],"duration":500}]}}},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"productivebees:spawn_egg_configurable_bee","components":{"minecraft:entity_data":{"type":"productivebees:pepto_bismol","id":"productivebees:configurable_bee"}}},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"productivebees:spawn_egg_sweat_bee"},"type":"item_stack"}},
   {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"productivebees:spawn_egg_bumble_bee"},"type":"item_stack"}},
@@ -1208,5 +1208,10 @@
   {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"mekanism:free_runners_armored","components":{"mekanism:energy":{"energy_containers":[64000]}}},"type":"item_stack"}},
   {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"mekanism:jetpack","components":{"mekanism:chemicals":{"chemical_tanks":[{"id":"mekanism:hydrogen","amount":24000}]}}},"type":"item_stack"}},
   {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"mekanism:jetpack_armored","components":{"mekanism:chemicals":{"chemical_tanks":[{"id":"mekanism:hydrogen","amount":24000}]}}},"type":"item_stack"}},
-  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"mekanism:seismic_reader","components":{"mekanism:energy":{"energy_containers":[12000]}}},"type":"item_stack"}}
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"mekanism:seismic_reader","components":{"mekanism:energy":{"energy_containers":[12000]}}},"type":"item_stack"}},
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"extendedcrafting:recipe_maker","components":{"extendedcrafting:recipe_maker":{"type":"CraftTweaker","shapeless":true}}},"type":"item_stack"}},
+  {"hide_mode":"SINGLE","ingredient":{"ingredient":{"id":"extendedcrafting:recipe_maker"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"avaritia:extreme_crafting_table"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"avaritia:compressed_crafting_table"},"type":"item_stack"}},
+  {"hide_mode":"WILDCARD","ingredient":{"ingredient":{"id":"avaritia:double_compressed_crafting_table"},"type":"item_stack"}}
 ]

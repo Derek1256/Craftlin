@@ -1,0 +1,44 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "pattern": [
+      "AAAABAAAA",
+      "ABBBBBBBA",
+      "ABAABAABA",
+      "ABACDCABA",
+      "EIEDGDEIE",
+      "AIACDCAIA",
+      "ABAABAABA",
+      "ABBBBBBBA",
+      "AAAABAAAA"
+    ],
+    "key": {
+      "A": {
+        "items": "megacells:mega_energy_cell",
+        "components": {
+          "ae2:stored_energy": 1.28E7
+        },
+        "type": "neoforge:components"
+      },
+      "B": {
+        "item": "mekanism:ultimate_induction_cell"
+      },
+      "C": {
+        "item": "ae2:singularity"
+      },
+      "D": {
+        "item": "advanced_ae:shattered_singularity"
+      },
+      "E": {
+        "item": "megacells:cell_component_256m"
+      },
+      "I": {
+        "item": "avaritia:infinity_catalyst"
+      },
+      "G": {
+        "item": "extendedcrafting:ultimate_singularity"
+      }
+    },
+    "result": {
+      "id": "ae2:creative_energy_cell"
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "AABBCCDDE",
+      "EFFGGHHII",
+      "JJKKLLMMN",
+      "NOOPPQ   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:pumpkin"
+      },
+      "B": {
+        "item": "minecraft:cactus"
+      },
+      "C": {
+        "item": "minecraft:red_mushroom"
+      },
+      "D": {
+        "item": "minecraft:beetroot"
+      },
+      "E": {
+        "item": "minecraft:carrot"
+      },
+      "F": {
+        "item": "minecraft:apple"
+      },
+      "G": {
+        "item": "minecraft:wheat"
+      },
+      "H": {
+        "item": "actuallyadditions:canola"
+      },
+      "I": {
+        "item": "actuallyadditions:rice"
+      },
+      "J": {
+        "item": "occultism:datura"
+      },
+      "K": {
+        "item": "ars_nouveau:magebloom"
+      },
+      "L": {
+        "item": "minecraft:sugar_cane"
+      },
+      "M": {
+        "item": "minecraft:cocoa_beans"
+      },
+      "N": {
+        "item": "biomeswevegone:oddion_bulb"
+      },
+      "O": {
+        "item": "actuallyadditions:coffee_beans"
+      },
+      "P": {
+        "item": "actuallyadditions:flax_seeds"
+      },
+      "Q": {
+        "item": "avaritia:neutron_pile"
+      }
+    },
+    "result": {
+      "id": "avaritia:ultimate_stew"
+    }
+  }

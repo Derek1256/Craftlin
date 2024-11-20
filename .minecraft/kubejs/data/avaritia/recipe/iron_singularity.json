@@ -1,0 +1,13 @@
+{
+  "neoforge:conditions":[{"type":"neoforge:false"}],
+  "type": "avaritia:compressor",
+  "result": {
+    "id": "avaritia:iron_singularity"
+  },
+  "cost": 400,
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/iron"
+    }
+  ]
+}

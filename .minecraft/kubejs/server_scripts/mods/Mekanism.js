@@ -8,4 +8,5 @@ ServerEvents.recipes(craftlin => {
         C: 'mekanism:electrolytic_core'
 
     })
+    craftlin.recipes.mekanism.crushing('extendedae:entro_dust', 'extendedae:entro_crystal')
 })

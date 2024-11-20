@@ -1,0 +1,29 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "   AA    ",
+      "  A B    ",
+      " A  B    ",
+      "A   B    ",
+      "C   B    ",
+      "A   B    ",
+      " A  B    ",
+      "  A B    ",
+      "   AA    "
+    ],
+    "key": {
+      "A": {
+        "item": "avaritia:infinity_ingot"
+      },
+      "B": {
+        "tag": "minecraft:wool"
+      },
+      "C": {
+        "item": "avaritia:crystal_matrix_block"
+      }
+    },
+    "result": {
+      "id": "avaritia:infinity_bow"
+    }
+  }

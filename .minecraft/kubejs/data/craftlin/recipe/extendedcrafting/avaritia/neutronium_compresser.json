@@ -1,0 +1,38 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "AAABBBAAA",
+      "C D   D C",
+      "A D   D A",
+      "C D   D C",
+      "EDD F DDE",
+      "C D   D C",
+      "A D   D A",
+      "C D   D C",
+      "AAA   AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_block"
+      },
+      "B": {
+        "item": "minecraft:hopper"
+      },
+      "C": {
+        "item": "avaritia:crystal_matrix_ingot"
+      },
+      "D": {
+        "item": "avaritia:neutronium_ingot"
+      },
+      "E": {
+        "item": "minecraft:redstone_block"
+      },
+      "F": {
+        "item": "avaritia:neutronium_block"
+      }
+    },
+    "result": {
+      "id": "avaritia:compressor"
+    }
+  }

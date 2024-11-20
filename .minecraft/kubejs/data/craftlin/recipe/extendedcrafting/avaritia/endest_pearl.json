@@ -1,0 +1,32 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "   AAA   ",
+      " AABBBAA ",
+      " ABBBBBA ",
+      "ABBBCBBBA",
+      "ABBCDCBBA",
+      "ABBBCBBBA",
+      " ABBBBBA ",
+      " AABBBAA ",
+      "   AAA   "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:end_stone"
+      },
+      "B": {
+        "item": "minecraft:ender_pearl"
+      },
+      "C": {
+        "item": "avaritia:neutronium_ingot"
+      },
+      "D": {
+        "item": "minecraft:nether_star"
+      }
+    },
+    "result": {
+      "id": "avaritia:endest_pearl"
+    }
+  }

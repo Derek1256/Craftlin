@@ -1,0 +1,29 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      " AAAAAAA ",
+      "AAAABAAAA",
+      "AA  C  AA",
+      "    C    ",
+      "    C    ",
+      "    C    ",
+      "    C    ",
+      "    C    ",
+      "    C    "
+    ],
+    "key": {
+      "A": {
+        "item": "avaritia:infinity_ingot"
+      },
+      "B": {
+        "item": "avaritia:crystal_matrix_block"
+      },
+      "C": {
+        "item": "avaritia:neutronium_ingot"
+      }
+    },
+    "result": {
+      "id": "avaritia:infinity_pickaxe"
+    }
+  }

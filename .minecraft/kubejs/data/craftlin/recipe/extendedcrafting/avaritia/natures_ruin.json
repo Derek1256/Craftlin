@@ -1,0 +1,26 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      " AAA     ",
+      "AAAAA    ",
+      " AAAA    ",
+      "   AB    ",
+      "    B    ",
+      "    B    ",
+      "    B    ",
+      "    B    ",
+      "    B    "
+    ],
+    "key": {
+      "A": {
+        "item": "avaritia:infinity_ingot"
+      },
+      "B": {
+        "item": "avaritia:neutronium_ingot"
+      }
+    },
+    "result": {
+      "id": "avaritia:infinity_axe"
+    }
+  }

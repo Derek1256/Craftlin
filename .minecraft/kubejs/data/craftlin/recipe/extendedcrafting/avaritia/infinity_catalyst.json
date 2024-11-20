@@ -1,0 +1,50 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "ABCDEFGHI",
+      "J        ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    "key": {
+      "A": {
+        "item": "avaritia:diamond_lattice"
+      },
+      "B": {
+        "item": "avaritia:crystal_matrix_ingot"
+      },
+      "C": {
+        "item": "avaritia:neutron_pile"
+      },
+      "D": {
+        "item": "avaritia:neutron_nugget"
+      },
+      "E": {
+        "item": "avaritia:neutronium_ingot"
+      },
+      "F": {
+        "item": "avaritia:ultimate_stew"
+      },
+      "G": {
+        "item": "avaritia:endest_pearl"
+      },
+      "H": {
+        "item": "avaritia:cosmic_meatballs"
+      },
+      "I": {
+        "item": "avaritia:record_fragment"
+      },
+      "J": {
+        "item": "extendedcrafting:ultimate_singularity"
+      }
+    },
+    "result": {
+      "id": "avaritia:infinity_catalyst"
+    }
+  }

@@ -1,0 +1,32 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "AABBBBBAA",
+      "A BBBBB A",
+      "A  CCC  A",
+      "D CCCCC D",
+      "A CCDCC A",
+      "D CCCCC D",
+      "A  CCC  A",
+      "A       A",
+      "AAAD DAAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_block"
+      },
+      "B": {
+        "item": "minecraft:quartz_block"
+      },
+      "C": {
+        "item": "minecraft:redstone_block"
+      },
+      "D": {
+        "item": "avaritia:crystal_matrix_ingot"
+      }
+    },
+    "result": {
+      "id": "avaritia:neutron_collector"
+    }
+  }

@@ -1,0 +1,32 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "AAAAAAAAA",
+      "ABBBCBBBA",
+      "ABAACAABA",
+      "ABA   ABA",
+      "ADA   ADA",
+      "ABA   ABA",
+      "ABA   ABA",
+      "ABA   ABA",
+      "AAA   AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "avaritia:neutronium_ingot"
+      },
+      "B": {
+        "item": "avaritia:infinity_ingot"
+      },
+      "C": {
+        "item": "avaritia:infinity_catalyst"
+      },
+      "D": {
+        "item": "avaritia:crystal_matrix_block"
+      }
+    },
+    "result": {
+      "id": "avaritia:infinity_leggings"
+    }
+  }

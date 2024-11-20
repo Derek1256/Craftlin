@@ -1,0 +1,44 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "AABBCCDDE",
+      "EFFGGH   ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:rabbit"
+      },
+      "B": {
+        "item": "minecraft:chicken"
+      },
+      "C": {
+        "item": "minecraft:mutton"
+      },
+      "D": {
+        "item": "minecraft:porkchop"
+      },
+      "E": {
+        "item": "minecraft:beef"
+      },
+      "F": {
+        "item": "minecraft:cod"
+      },
+      "G": {
+        "item": "minecraft:salmon"
+      },
+      "H": {
+        "item": "avaritia:neutron_pile"
+      }
+    },
+    "result": {
+      "id": "avaritia:cosmic_meatballs"
+    }
+  }

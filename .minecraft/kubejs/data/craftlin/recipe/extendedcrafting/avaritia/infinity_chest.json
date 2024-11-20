@@ -1,0 +1,35 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "AAABBBAAA",
+      "ACB   BCA",
+      "A B   B A",
+      "B B D B B",
+      "ACBDEDBCA",
+      "B B D B B",
+      "A B   B A",
+      "ACB   BCA",
+      "AAABBBAAA"
+    ],
+    "key": {
+      "A": {
+        "item": "avaritia:infinity_ingot"
+      },
+      "B": {
+        "item": "avaritia:neutronium_ingot"
+      },
+      "C": {
+        "item": "avaritia:infinity_catalyst"
+      },
+      "D": {
+        "item": "avaritia:endest_pearl"
+      },
+      "E": {
+        "item": "minecraft:chest"
+      }
+    },
+    "result": {
+      "id": "avaritia:infinity_chest"
+    }
+  }

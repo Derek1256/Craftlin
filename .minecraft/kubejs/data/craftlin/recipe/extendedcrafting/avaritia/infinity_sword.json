@@ -1,0 +1,32 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "       AA",
+      "      AAA",
+      "     AAA ",
+      "    AAA  ",
+      " B AAA   ",
+      "  BAA    ",
+      "  CB     ",
+      " C  B    ",
+      "D        "
+    ],
+    "key": {
+      "A": {
+        "item": "avaritia:infinity_ingot"
+      },
+      "B": {
+        "item": "avaritia:crystal_matrix_ingot"
+      },
+      "C": {
+        "item": "avaritia:neutronium_ingot"
+      },
+      "D": {
+        "item": "avaritia:infinity_catalyst"
+      }
+    },
+    "result": {
+      "id": "avaritia:infinity_sword"
+    }
+  }

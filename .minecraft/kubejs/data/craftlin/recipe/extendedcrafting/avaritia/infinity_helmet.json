@@ -1,0 +1,29 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "  AAAAA  ",
+      " ABBBBBA ",
+      " A CBC A ",
+      " ABBBBBA ",
+      " ABBBBBA ",
+      " AB B BA ",
+      "         ",
+      "         ",
+      "         "
+    ],
+    "key": {
+      "A": {
+        "item": "avaritia:neutronium_ingot"
+      },
+      "B": {
+        "item": "avaritia:infinity_ingot"
+      },
+      "C": {
+        "item": "avaritia:infinity_catalyst"
+      }
+    },
+    "result": {
+      "id": "avaritia:infinity_helmet"
+    }
+  }

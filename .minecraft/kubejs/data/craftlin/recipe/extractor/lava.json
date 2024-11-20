@@ -1,0 +1,19 @@
+{
+  "type": "xycraft_machines:extractor",
+  "catalyst": {
+    "fluid_type": "minecraft:lava",
+    "predicate_type": "xycraft_core:fluid_type_rule"
+  },
+  "output": {
+    "amount": 1000,
+    "id": "minecraft:lava"
+  },
+  "target": {
+    "block": "minecraft:dripstone_block",
+    "predicate_type": "xycraft_core:block_rule"
+  },
+  "ticks": 5,
+  "valid_directions": [
+    "up"
+  ]
+}
