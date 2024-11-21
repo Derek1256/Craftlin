@@ -7,6 +7,10 @@ assignees: Derek1256
 
 ---
 
+
+### Crash report / Logs
+<Insert file here>
+
 ### What the bug/issue is.
 <type here>
 
