@@ -9,4 +9,4 @@ Features & Edits:
 * Advanced AE (With buffed Quantum computers)
 * Avaritia Neo
 * Custom Mystical agriculture seeds
-* Native AE2 Dark mode! if you do not like it, remove the ae2 folders in `/kubejs/assets/`
+* Native AE2 Dark mode! & Faithless *if you do not like this, remove the folders in `kubejs/assets/`: AE2 Dark mode: `advanced_ae, ae2, ae2importexportcard, appflux,extendedae,megacells,merequester` Faithless `minecraft`*
