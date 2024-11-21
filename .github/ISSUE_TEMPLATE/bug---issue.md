@@ -1,8 +1,8 @@
 ---
 name: Bug / Issue
-about: Describe this issue template's purpose here.
-title: "[Bug/issue report"
-labels: bug
+about: Something brokey pls fix
+title: "[Bug/issue report]"
+labels: bug/issue
 assignees: Derek1256
 
 ---
