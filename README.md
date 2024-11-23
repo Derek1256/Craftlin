@@ -10,3 +10,4 @@ Features & Edits:
 * Avaritia Neo
 * Custom Mystical agriculture seeds
 * Native AE2 Dark mode! *if you do not like this, remove the folders in `kubejs/assets/`: `advanced_ae, ae2, ae2importexportcard, appflux,extendedae,megacells,merequester`*
+* AE2 Channels disabled
