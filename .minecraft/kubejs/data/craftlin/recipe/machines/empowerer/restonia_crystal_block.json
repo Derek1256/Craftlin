@@ -1,0 +1,98 @@
+{
+    "machine": "craftlin:empowerer",
+    "type": "modular_machinery_reborn:machine_recipe",
+    "id": "craftlin:advanced_empowerer/empowered_restonia_crystal_block",
+    "time": 40,
+    "width": 256,
+    "height": 256,
+    "requirements": [
+      {
+        "type": "modular_machinery_reborn:energy",
+        "mode": "input",
+        "amount": 8000,
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "output",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "actuallyadditions:empowered_restonia_crystal_block"
+          },
+          "count": 1
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "minecraft:nether_brick"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "minecraft:red_dye"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "minecraft:redstone"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "minecraft:brick"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "actuallyadditions:restonia_crystal_block"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    ]
+  }

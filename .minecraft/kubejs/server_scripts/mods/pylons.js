@@ -1,11 +1,4 @@
+console.log('Initlizating pylons.js!')
 ServerEvents.recipes(craftlin => {
-    console.log('Initlizating pylons.js!')
-    
-
-
-
-
-
-
-    console.log('pylons.js is loaded!')
 })
+console.log('pylons.js is loaded!')

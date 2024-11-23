@@ -1,0 +1,88 @@
+{
+    "registryName": "mine_tier_2",
+    "localizedName": "Mine tier 2",
+    "structure": {
+    "pattern": [
+          [
+            "a     a",
+            " bfccd ",
+            " fcfgb ",
+            " bbgdd ",
+            " bdhgf ",
+            " ebdcb ",
+            "a     a"
+          ],
+          [
+            "a     a",
+            " bgcde ",
+            " fcceh ",
+            " dceeh ",
+            " echfb ",
+            " bebhc ",
+            "a     a"
+          ],
+          [
+            "a     a",
+            " bcgbg ",
+            " dhdgh ",
+            " hcdge ",
+            " fbfge ",
+            " hefhc ",
+            "a     a"
+          ],
+          [
+            "aaaaaaa",
+            "aefbfba",
+            "aehhdga",
+            "aehhcea",
+            "adcbdfa",
+            "adfbfca",
+            "aaaiaaa"
+          ],
+          [
+            "kjjjjjm",
+            "j     j",
+            "j     j",
+            "j     j",
+            "j     j",
+            "j     j",
+            "ajjjjja"
+          ]
+        ],
+        "keys": {
+          "a": [
+            "craftlin:mine_casing_tier_2"
+          ],
+          "b": [
+            "minecraft:iron_ore"
+          ],
+          "c": [
+            "alltheores:tin_ore"
+          ],
+          "d": [
+            "minecraft:copper_ore"
+          ],
+          "e": [
+            "minecraft:coal_ore"
+          ],
+          "f": [
+            "alltheores:osmium_ore"
+          ],
+          "g": [
+            "minecraft:lapis_ore"
+          ],
+          "h": [
+            "minecraft:diamond_ore"
+          ],
+          "i": [
+            "#modular_machinery_reborn:energyinputhatch"
+          ],
+          "j": [
+            "framedblocks:framed_slab[glowing\u003dfalse,propagates_skylight\u003dtrue,waterlogged\u003dfalse,top\u003dfalse,solid\u003dtrue]"
+          ],
+          "k": [
+            "#modular_machinery_reborn:outputbus"
+          ]
+        }
+    }
+}

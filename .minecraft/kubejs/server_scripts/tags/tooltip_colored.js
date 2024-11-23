@@ -2,8 +2,11 @@ ServerEvents.tags('item', craftlin => {
     // Declutter JEI with removing colored stuff & adding a tooltip "can be any color!"
     craftlin.add('craftlin:tooltip_colored', [
         'mekanismadditions:white_plastic_transparent_slab',
+        'mekanismadditions:white_balloon',
+        'mekanismadditions:white_glow_panel',
         'mekanismadditions:white_plastic_slab',
         'mekanismadditions:white_plastic_glow_slab',
+        'actuallyadditions:drill_white',
         'mekanismadditions:white_plastic',
         'mekanismadditions:white_slick_plastic',
         'mekanismadditions:white_plastic_glow',

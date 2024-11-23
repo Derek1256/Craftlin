@@ -1,5 +1,5 @@
+console.log('Initializing Mystical Agriculture.js!')
 ServerEvents.recipes(craftlin => {
-    console.log('Initializing Mystical Agriculture.js!')
     craftlin.replaceInput({ input: 'mysticalagriculture:machine_frame'}, 'mysticalagriculture:machine_frame', 'industrialforegoing:machine_frame_simple')
     craftlin.shaped(Item.of('industrialforegoing:dryrubber', 2), ['RRR', 'R R', 'RRR'], { R: 'mysticalagriculture:rubber_essence' })
     craftlin.shaped(Item.of('extendedae:entro_crystal', 4), ['EEE', 'E E', 'EEE'], { E: 'mysticalagriculture:entro_crystal_essence' })
@@ -10,5 +10,5 @@ ServerEvents.recipes(craftlin => {
     craftlin.shaped(Item.of('xycraft_world:xychorium_gem_dark', 8), ['XX ', 'XX ', 'X  '], { X: 'mysticalagriculture:xychorium_essence' })
     craftlin.shaped(Item.of('xycraft_world:xychorium_gem_light', 8), ['X  ', 'XX ', 'XX '], { X: 'mysticalagriculture:xychorium_essence' })
     craftlin.shaped(Item.of('ae2:silicon', 4), ['SSS', 'S S', 'SSS'], { S: 'mysticalagriculture:silicon_essence' })
-    console.log('Mystical Agriculture.js is loaded!')
 })
+console.log('Mystical Agriculture.js is loaded!')

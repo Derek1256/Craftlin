@@ -1,0 +1,98 @@
+{
+    "machine": "craftlin:empowerer",
+    "type": "modular_machinery_reborn:machine_recipe",
+    "id": "craftlin:advanced_empowerer/empowered_enori_crystal",
+    "time": 20,
+    "width": 256,
+    "height": 256,
+    "requirements": [
+      {
+        "type": "modular_machinery_reborn:energy",
+        "mode": "input",
+        "amount": 8000,
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "output",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "actuallyadditions:empowered_enori_crystal"
+          },
+          "count": 1
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "minecraft:snowball"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "minecraft:gray_dye"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "tag": "c:cobblestones"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "minecraft:stone_button"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "actuallyadditions:enori_crystal"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    ]
+  }

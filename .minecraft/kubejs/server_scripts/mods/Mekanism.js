@@ -1,5 +1,5 @@
+console.log('Initializing Mekanism.js!')
 ServerEvents.recipes(craftlin => {
-    console.log('Initializing Mekanism.js!')
     craftlin.shaped(Item.of('mekanismgenerators:gas_burning_generator', 1), ['OAO', 'SCS', 'OAO'], 
     {
         O: 'alltheores:osmium_ingot',
@@ -8,5 +8,9 @@ ServerEvents.recipes(craftlin => {
         C: 'mekanism:electrolytic_core'
 
     })
-    craftlin.recipes.mekanism.crushing('extendedae:entro_dust', 'extendedae:entro_crystal')
+    // Crushers
+    let crusher = craftlin.recipes.mekanism.crushing
+    crusher('extendedae:entro_dust', 'extendedae:entro_crystal')
+    crusher('modern_industrialization:silicon_dust', '#c:silicon')
 })
+console.log('Initialized Mekanism.js!')

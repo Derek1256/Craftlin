@@ -1,0 +1,98 @@
+{
+    "machine": "craftlin:empowerer",
+    "type": "modular_machinery_reborn:machine_recipe",
+    "id": "craftlin:advanced_empowerer/empowered_void_crystal_block",
+    "time": 40,
+    "width": 256,
+    "height": 256,
+    "requirements": [
+      {
+        "type": "modular_machinery_reborn:energy",
+        "mode": "input",
+        "amount": 8000,
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "output",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "actuallyadditions:empowered_void_crystal_block"
+          },
+          "count": 1
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "tag": "c:stones"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "tag": "c:dyes/black"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "tag": "minecraft:coals"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "minecraft:flint"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "modular_machinery_reborn:item",
+        "mode": "input",
+        "sizedIngredient": {
+          "ingredient": {
+            "item": "actuallyadditions:void_crystal_block"
+          }
+        },
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    ]
+  }
