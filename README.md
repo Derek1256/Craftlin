@@ -1,3 +1,8 @@
+### Quests have not been added yet. still seeing if i can get someone to want to do it, or how i want to do the quests.
+
+
+
+
 # Project: Craftlin
 
 
