@@ -5,6 +5,6 @@
     "8e1a"
   ],
   "ingredient": {
-    "item": "minecraft:emerald"
+    "tag": "c:storage_blocks/emerald"
   }
 }
