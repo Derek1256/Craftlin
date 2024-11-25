@@ -12,5 +12,17 @@ ServerEvents.recipes(craftlin => {
     let crusher = craftlin.recipes.mekanism.crushing
     crusher('extendedae:entro_dust', 'extendedae:entro_crystal')
     crusher('modern_industrialization:silicon_dust', '#c:silicon')
+    // Enriching
+    craftlin.custom({
+        "type": "mekanism:enriching",
+        "input": {
+            "count": 1,
+            "tag": "c:ores/black_quartz"
+        },
+        "output": {
+            "count": 4,
+            "id": "actuallyadditions:black_quartz"
+        }
+    })
 })
 console.log('Initialized Mekanism.js!')
