@@ -1,0 +1,16 @@
+filename = 'ae2wtlib-19.1.7.jar'
+name = 'AE2WTLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'daca822a2c478277b622f6b41131e34142e76765'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5905758
+project-id = 459929

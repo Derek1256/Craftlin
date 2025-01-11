@@ -1,0 +1,17 @@
+filename = 'modular_machinery_reborn_mekanism-1.21.1-1.0.11.jar'
+name = 'Modular Machinery Reborn Mekanism'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge]ModularMachineyRebornMekanism-1.21.1-1.0.11'
+
+[download]
+hash = 'ea38606c4975da6c611449d987c5b5a16cf19e45'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6024403
+project-id = 1131856

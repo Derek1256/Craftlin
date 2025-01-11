@@ -1,0 +1,16 @@
+filename = 'farsight-1.21-3.8.jar'
+name = 'Farsight [Forge/Neo]'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'de2606d74f852c85abe9521c7dd4204bd88a9e23'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5664472
+project-id = 495693

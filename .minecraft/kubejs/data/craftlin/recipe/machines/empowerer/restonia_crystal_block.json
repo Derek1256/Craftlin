@@ -1,4 +1,5 @@
 {
+    "neoforge:conditions":[{"type":"neoforge:false"}],
     "machine": "craftlin:empowerer",
     "type": "modular_machinery_reborn:machine_recipe",
     "id": "craftlin:advanced_empowerer/empowered_restonia_crystal_block",

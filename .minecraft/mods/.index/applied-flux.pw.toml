@@ -1,0 +1,16 @@
+filename = 'AppliedFlux-1.21-2.0.3-neoforge.jar'
+name = 'AppliedFlux'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f5274e6843bfd4a0c627c563f4a29bef2554b277'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5946853
+project-id = 965012

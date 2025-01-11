@@ -1,0 +1,16 @@
+filename = 'tectonic-neoforge-1.21.4-2.4.2.jar'
+name = 'Tectonic'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c6fafc4938416f0564b6cc4429fd45561b4fd88f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5960306
+project-id = 686836

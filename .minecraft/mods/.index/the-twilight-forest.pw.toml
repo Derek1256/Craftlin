@@ -1,0 +1,16 @@
+filename = 'twilightforest-1.21.1-4.6.2941-universal.jar'
+name = 'The Twilight Forest'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9f7d8fcb688562375b3ae34bd6d6f608121ae4df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5983260
+project-id = 227639

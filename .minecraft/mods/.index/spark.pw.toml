@@ -1,0 +1,16 @@
+filename = 'spark-1.10.109-neoforge.jar'
+name = 'spark'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'c21cab62a316eb97a9757671686c8ab3895bd154'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5759671
+project-id = 361579

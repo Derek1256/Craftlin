@@ -1,0 +1,16 @@
+filename = 'Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.6.jar'
+name = "Oh The Trees You'll Grow"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '10fb6936a4c5df9bf13bf4bdb3e8434c950d96c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6026954
+project-id = 962544

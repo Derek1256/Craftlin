@@ -1,0 +1,16 @@
+filename = 'sophisticatedstorage-1.21.1-1.0.4.988.jar'
+name = 'Sophisticated Storage'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9bcb558f2a0b71bbf36d8770a728feb47398208d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6016824
+project-id = 619320

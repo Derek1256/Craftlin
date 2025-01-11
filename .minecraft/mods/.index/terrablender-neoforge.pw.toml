@@ -1,0 +1,16 @@
+filename = 'TerraBlender-neoforge-1.21.1-4.1.0.5.jar'
+name = 'TerraBlender (NeoForge)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '752ca1c771ef681942415f53ee7abe1067b874dc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5864140
+project-id = 940057

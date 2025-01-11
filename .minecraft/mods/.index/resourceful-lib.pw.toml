@@ -1,0 +1,16 @@
+filename = 'resourcefullib-neoforge-1.21-3.0.11.jar'
+name = 'Resourceful Lib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '004b51394d4b4460e70d65b0894e9e42799bcc5c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5793500
+project-id = 570073

@@ -1,0 +1,16 @@
+filename = 'journeymap-neoforge-1.21.1-6.0.0-beta.32.jar'
+name = 'Journeymap'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '22fb35eb93ca34291b1d093dc305e2828faed167'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5972765
+project-id = 32274

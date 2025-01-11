@@ -1,0 +1,16 @@
+filename = 'simplylight-1.4.6+1.21-b53.jar'
+name = 'Simply Light'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3d36800fe495ba2bccdcf695cd73cc46bc13866c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5520283
+project-id = 300331

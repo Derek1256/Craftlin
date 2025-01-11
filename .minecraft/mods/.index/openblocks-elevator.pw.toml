@@ -1,0 +1,19 @@
+filename = 'elevatorid-neoforge-1.21.1-1.11.3.jar'
+name = 'OpenBlocks Elevator'
+side = 'both'
+x-prismlauncher-categories = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-lock-update = false
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'elevatorid-neoforge-1.21.1-1.11.3.jar'
+
+[download]
+hash = '18636957870540d892fe0ee036fe621e2496aaca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5725596
+project-id = 250832

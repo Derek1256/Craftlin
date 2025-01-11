@@ -1,0 +1,16 @@
+filename = 'HostileNeuralNetworks-1.21.1-6.1.1.jar'
+name = 'Hostile Neural Networks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '39496b711027efcfc0c9cc7ab25fc2c22b755aaf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5889836
+project-id = 552574

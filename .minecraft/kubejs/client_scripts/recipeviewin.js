@@ -7,7 +7,8 @@ RecipeViewerEvents.removeEntriesCompletely('item', craftlin => {
         'In a Reaction chamber: §b5 buckets of Water§f + §c1x Quantum Infused Dust§f = §51 bucket of Quantum Infusion'
     ])
  })
- RecipeViewerEvents.addEntries('item', craftlin => {
-    craftlin.add('ae2:facade[ae2:facade_item="minecraft:stone"]')
- })
+ RecipeViewerEvents.addInformation('item', craftlin => {
+    craftlin.add('industrialforegoing:dryrubber', ['In a latex processing unit:§b1 bucket of water§f & 1 bucket of Latex = 1 dry rubber. '])
+    craftlin.add('enderio:grains_of_infinity', ['aWhen using xycraft to make this you HAVE to place fire under the obsidian, you can also use netherrack to keep the fire going.'])
+})
 console.log('recipeviewin.js has been loaded!')

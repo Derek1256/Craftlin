@@ -1,0 +1,16 @@
+filename = 'merequester-neoforge-1.21.1-1.1.8.jar'
+name = 'ME Requester'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '88affd1c943659731cec4d248a227edc88ec074b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5786514
+project-id = 688367

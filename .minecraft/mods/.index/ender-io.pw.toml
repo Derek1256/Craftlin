@@ -1,0 +1,16 @@
+filename = 'enderio-7.0.11-alpha.jar'
+name = 'Ender IO'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '5bfc1387b351d6207d9e7dd6002a83953f6b5126'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5981524
+project-id = 64578

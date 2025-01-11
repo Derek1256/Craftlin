@@ -1,0 +1,16 @@
+filename = 'Oh-The-Biomes-Weve-Gone-NeoForge-2.3.0.jar'
+name = "Oh The Biomes We've Gone"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '05c0e822e2b622ea50972ab68003a36f99b2b579'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6029134
+project-id = 1070751

@@ -1,0 +1,16 @@
+filename = 'mekanism_extras-1.21.1-1.0.5.jar'
+name = 'Mekanism Extras'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '8944d97b1c58f633a30dc79e6629f8ad74a3fe66181efc7dc65576e788d2068c8d663ca1cf549cb4b628089849b97b817caf208e082db1cea3aa31c3ccadfcd5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HUZkxNTQ/versions/mm7bebcE/mekanism_extras-1.21.1-1.0.5.jar'
+
+[update.modrinth]
+mod-id = 'HUZkxNTQ'
+version = 'mm7bebcE'

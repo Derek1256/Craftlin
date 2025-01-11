@@ -1,0 +1,16 @@
+filename = 'Mekanism-1.21.1-10.7.8.70.jar'
+name = 'Mekanism'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = 'a61585c5d853016b1ab8609113632a9d548df6a6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6018306
+project-id = 268560

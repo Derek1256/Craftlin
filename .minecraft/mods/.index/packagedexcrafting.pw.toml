@@ -1,0 +1,16 @@
+filename = 'PackagedExCrafting-1.21.1-4.0.0.1.jar'
+name = 'PackagedExCrafting'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'b7ae34541b38fbe0dacad232211d893019dada93'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5925377
+project-id = 322861

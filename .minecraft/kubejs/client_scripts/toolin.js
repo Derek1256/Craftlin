@@ -3,7 +3,7 @@ ItemEvents.modifyTooltips(craftlin => {
     craftlin.add('ae2:singularity', [
         Text.of("§cExtendedAE's Void cell inside a ME IO Port is very good for this"),
         Text.of("§cwhen filtered to cobble + infinity cobble cell.")])
-    craftlin.add("#craftlin:developer", "§9Added by: Developer: §dDerek")
+    craftlin.add("#craftlin:developer", "§9Added by: §dCraftlin")
     // Decluttering JEI
         craftlin.add('#craftlin:tooltip_colored', "§aCan be any color!") // Go to server_scripts/tags/tooltip_colored.js to add items to this tag.
         craftlin.add('#allthecompressed:1x', [Text.of("§3Can be compressed up to 9x!"), Text.of("§3The 2-9x is hidden from JEI for clutter.")])

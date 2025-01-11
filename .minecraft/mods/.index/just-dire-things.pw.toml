@@ -1,0 +1,16 @@
+filename = 'justdirethings-1.5.1.jar'
+name = 'Just Dire Things'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a260fd95373648d359837c63e082e606861afc4b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5975437
+project-id = 1002348

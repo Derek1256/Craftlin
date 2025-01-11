@@ -3,342 +3,342 @@
     "localizedName": "Advanced Empowerer",
     "color": "#ff8e9492",
     "structure": {
-        "pattern": [
-            [
-            "                                   aaa     ",
-            "                                 aabbbaa   ",
-            "                                abbbbbbba  ",
-            "                               abbbbbbbbba ",
-            "                               abbbbbbbbba ",
-            "                              abbbbbbbbbbba",
-            "                              abbbbbbbbbbbc",
-            "                              abbbbbbbbbbba",
-            "                               abbbbbbbbba ",
-            "                               abbbbbbbbba ",
-            "                                abbbbbbba  ",
-            "                                 aabbbaa   ",
-            "                                   aaa     "
-            ],
-            [
-            "                                   emf     ",
-            "                                 aa   aa   ",
-            "                                a       a  ",
-            "                               a         a ",
-            "                               a         a ",
-            "                              a    d d    a",
-            "                              a     d     g",
-            "                              a    d d    a",
-            "                               a         a ",
-            "                               a         a ",
-            "                                a       a  ",
-            "                                 aa   aa   ",
-            "                                   aaa     "
-            ],
-            [
-            "                                           ",
-            "                                 hhiiihh   ",
-            "                                aii   iia  ",
-            "                               hi       ih ",
-            "                               hi       ih ",
-            "                               i         i ",
-            "                               i         i ",
-            "                               i         i ",
-            "                               hi       ih ",
-            "                               hi       ih ",
-            "                                aii   iia  ",
-            "                                 hhiiihh   ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                   iii     ",
-            "                                aii   iia  ",
-            "                                i       i  ",
-            "                                i       i  ",
-            "                               i         i ",
-            "                               i         i ",
-            "                               i         i ",
-            "                                i       i  ",
-            "                                i       i  ",
-            "                                aii   iia  ",
-            "                                   iii     ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a  lll  a  ",
-            "                                 ll   ll   ",
-            "                                 l     l   ",
-            "                                l       l  ",
-            "                                l       l  ",
-            "                                l       l  ",
-            "                                 l     l   ",
-            "                                 ll   ll   ",
-            "                                a  lll  a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a  lll  a  ",
-            "                                 ll   ll   ",
-            "                                 l     l   ",
-            "                                l       l  ",
-            "                                l       l  ",
-            "                                l       l  ",
-            "                                 l     l   ",
-            "                                 ll   ll   ",
-            "                                a  lll  a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a  lll  a  ",
-            "                                 ll   ll   ",
-            "                                 l     l   ",
-            "                                l       l  ",
-            "                                l       l  ",
-            "                                l       l  ",
-            "                                 l     l   ",
-            "                                 ll   ll   ",
-            "                                a  lll  a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a       a  ",
-            "                                   ooo     ",
-            "                                  o   o    ",
-            "                                 o     o   ",
-            "                                 o     o   ",
-            "                                 o     o   ",
-            "                                  o   o    ",
-            "                                   ooo     ",
-            "                                a       a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a       a  ",
-            "                                   ooo     ",
-            "                                  o   o    ",
-            "                                 o     o   ",
-            "                                 o     o   ",
-            "                                 o     o   ",
-            "                                  o   o    ",
-            "                                   ooo     ",
-            "                                a       a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a       a  ",
-            "                                           ",
-            "                                   ppp     ",
-            "                                  p   p    ",
-            "                                  p   p    ",
-            "                                  p   p    ",
-            "                                   ppp     ",
-            "                                           ",
-            "                                a       a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a       a  ",
-            "                                           ",
-            "                                   ppp     ",
-            "                                  p   p    ",
-            "                                  p   p    ",
-            "                                  p   p    ",
-            "                                   ppp     ",
-            "                                           ",
-            "                                a       a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a       a  ",
-            "                                           ",
-            "                                   ppp     ",
-            "                                  p   p    ",
-            "                                  p   p    ",
-            "                                  p   p    ",
-            "                                   ppp     ",
-            "                                           ",
-            "                                a       a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a       a  ",
-            "                                   qqq     ",
-            "                                  q   q    ",
-            "                                 q     q   ",
-            "                                 q     q   ",
-            "                                 q     q   ",
-            "                                  q   q    ",
-            "                                   qqq     ",
-            "                                a       a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a       a  ",
-            "                                   qqq     ",
-            "                                  q   q    ",
-            "                                 q     q   ",
-            "                                 q     q   ",
-            "                                 q     q   ",
-            "                                  q   q    ",
-            "                                   qqq     ",
-            "                                a       a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a  rrr  a  ",
-            "                                 rr   rr   ",
-            "                                 r     r   ",
-            "                                r       r  ",
-            "                                r       r  ",
-            "                                r       r  ",
-            "                                 r     r   ",
-            "                                 rr   rr   ",
-            "                                a  rrr  a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a  rrr  a  ",
-            "                                 rr   rr   ",
-            "                                 r     r   ",
-            "                                r       r  ",
-            "                                r       r  ",
-            "                                r       r  ",
-            "                                 r     r   ",
-            "                                 rr   rr   ",
-            "                                a  rrr  a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                           ",
-            "                                a  rrr  a  ",
-            "                                 rr   rr   ",
-            "                                 r     r   ",
-            "                                r       r  ",
-            "                                r       r  ",
-            "                                r       r  ",
-            "                                 r     r   ",
-            "                                 rr   rr   ",
-            "                                a  rrr  a  ",
-            "                                           ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                   aaa     ",
-            "                                aaa   aaa  ",
-            "                                a       a  ",
-            "                                a       a  ",
-            "                               a         a ",
-            "                               a         a ",
-            "                               a         a ",
-            "                                a       a  ",
-            "                                a       a  ",
-            "                                aaa   aaa  ",
-            "                                   aaa     ",
-            "                                           "
-            ],
-            [
-            "                                           ",
-            "                                   aaa     ",
-            "                                aaasssaaa  ",
-            "                                asstttssa  ",
-            "                                astttttsa  ",
-            "                               astttttttsa ",
-            "                               astttttttsa ",
-            "                               astttttttsa ",
-            "                                astttttsa  ",
-            "                                asstttssa  ",
-            "                                aaasssaaa  ",
-            "                                   aaa     ",
-            "                                           "
-              ]
-            ],
-            "keys": {
-              "a": [
-                "modular_machinery_reborn:casing_reinforced"
-              ],
-              "b": [
-                "minecraft:stone"
-              ],
-              "c": [
-                "modular_machinery_reborn:casing_gearbox"
-              ],
-              "d": [
-                "actuallyadditions:empowerer"
-              ],
-              "e": [
-                "#modular_machinery_reborn:outputbus"
-              ],
-              "f": [
-                "#modular_machinery_reborn:inputbus"
-              ],
-              "g": [
-                "#modular_machinery_reborn:energyinputhatch"
-              ],
-              "h": [
-                "actuallyadditions:display_stand"
-              ],
-              "i": [
-                "actuallyadditions:empowered_restonia_crystal_block"
-              ],
-              "l": [
-                "actuallyadditions:empowered_enori_crystal_block"
-              ],
-              "o": [
-                "actuallyadditions:empowered_diamatine_crystal_block"
-              ],
-              "p": [
-                "actuallyadditions:empowered_palis_crystal_block"
-              ],
-              "q": [
-                "actuallyadditions:empowered_void_crystal_block"
-              ],
-              "r": [
-                "actuallyadditions:empowered_emeradic_crystal_block"
-              ],
-              "s": [
-                "modular_machinery_reborn:casing_vent"
-              ],
-              "t": [
-                "actuallyadditions:iron_casing"
-              ]
-            }
-          }
+    "pattern": [
+    [
+    "                                   aaa     ",
+    "                                 aabbbaa   ",
+    "                                abbbbbbba  ",
+    "                               abbbbbbbbba ",
+    "                               abbbbbbbbba ",
+    "                              abbbbbbbbbbba",
+    "                              abbbbbbbbbbbc",
+    "                              abbbbbbbbbbba",
+    "                               abbbbbbbbba ",
+    "                               abbbbbbbbba ",
+    "                                abbbbbbba  ",
+    "                                 aabbbaa   ",
+    "                                   aaa     "
+    ],
+    [
+    "                                   emf     ",
+    "                                 aa   aa   ",
+    "                                a       a  ",
+    "                               a         a ",
+    "                               a         a ",
+    "                              a    d d    a",
+    "                              a     d     g",
+    "                              a    d d    a",
+    "                               a         a ",
+    "                               a         a ",
+    "                                a       a  ",
+    "                                 aa   aa   ",
+    "                                   aaa     "
+    ],
+    [
+    "                                           ",
+    "                                 hhiiihh   ",
+    "                                aii   iia  ",
+    "                               hi       ih ",
+    "                               hi       ih ",
+    "                               i         i ",
+    "                               i         i ",
+    "                               i         i ",
+    "                               hi       ih ",
+    "                               hi       ih ",
+    "                                aii   iia  ",
+    "                                 hhiiihh   ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                   iii     ",
+    "                                aii   iia  ",
+    "                                i       i  ",
+    "                                i       i  ",
+    "                               i         i ",
+    "                               i         i ",
+    "                               i         i ",
+    "                                i       i  ",
+    "                                i       i  ",
+    "                                aii   iia  ",
+    "                                   iii     ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a  lll  a  ",
+    "                                 ll   ll   ",
+    "                                 l     l   ",
+    "                                l       l  ",
+    "                                l       l  ",
+    "                                l       l  ",
+    "                                 l     l   ",
+    "                                 ll   ll   ",
+    "                                a  lll  a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a  lll  a  ",
+    "                                 ll   ll   ",
+    "                                 l     l   ",
+    "                                l       l  ",
+    "                                l       l  ",
+    "                                l       l  ",
+    "                                 l     l   ",
+    "                                 ll   ll   ",
+    "                                a  lll  a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a  lll  a  ",
+    "                                 ll   ll   ",
+    "                                 l     l   ",
+    "                                l       l  ",
+    "                                l       l  ",
+    "                                l       l  ",
+    "                                 l     l   ",
+    "                                 ll   ll   ",
+    "                                a  lll  a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a       a  ",
+    "                                   ooo     ",
+    "                                  o   o    ",
+    "                                 o     o   ",
+    "                                 o     o   ",
+    "                                 o     o   ",
+    "                                  o   o    ",
+    "                                   ooo     ",
+    "                                a       a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a       a  ",
+    "                                   ooo     ",
+    "                                  o   o    ",
+    "                                 o     o   ",
+    "                                 o     o   ",
+    "                                 o     o   ",
+    "                                  o   o    ",
+    "                                   ooo     ",
+    "                                a       a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a       a  ",
+    "                                           ",
+    "                                   ppp     ",
+    "                                  p   p    ",
+    "                                  p   p    ",
+    "                                  p   p    ",
+    "                                   ppp     ",
+    "                                           ",
+    "                                a       a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a       a  ",
+    "                                           ",
+    "                                   ppp     ",
+    "                                  p   p    ",
+    "                                  p   p    ",
+    "                                  p   p    ",
+    "                                   ppp     ",
+    "                                           ",
+    "                                a       a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a       a  ",
+    "                                           ",
+    "                                   ppp     ",
+    "                                  p   p    ",
+    "                                  p   p    ",
+    "                                  p   p    ",
+    "                                   ppp     ",
+    "                                           ",
+    "                                a       a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a       a  ",
+    "                                   qqq     ",
+    "                                  q   q    ",
+    "                                 q     q   ",
+    "                                 q     q   ",
+    "                                 q     q   ",
+    "                                  q   q    ",
+    "                                   qqq     ",
+    "                                a       a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a       a  ",
+    "                                   qqq     ",
+    "                                  q   q    ",
+    "                                 q     q   ",
+    "                                 q     q   ",
+    "                                 q     q   ",
+    "                                  q   q    ",
+    "                                   qqq     ",
+    "                                a       a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a  rrr  a  ",
+    "                                 rr   rr   ",
+    "                                 r     r   ",
+    "                                r       r  ",
+    "                                r       r  ",
+    "                                r       r  ",
+    "                                 r     r   ",
+    "                                 rr   rr   ",
+    "                                a  rrr  a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a  rrr  a  ",
+    "                                 rr   rr   ",
+    "                                 r     r   ",
+    "                                r       r  ",
+    "                                r       r  ",
+    "                                r       r  ",
+    "                                 r     r   ",
+    "                                 rr   rr   ",
+    "                                a  rrr  a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                           ",
+    "                                a  rrr  a  ",
+    "                                 rr   rr   ",
+    "                                 r     r   ",
+    "                                r       r  ",
+    "                                r       r  ",
+    "                                r       r  ",
+    "                                 r     r   ",
+    "                                 rr   rr   ",
+    "                                a  rrr  a  ",
+    "                                           ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                   aaa     ",
+    "                                aaa   aaa  ",
+    "                                a       a  ",
+    "                                a       a  ",
+    "                               a         a ",
+    "                               a         a ",
+    "                               a         a ",
+    "                                a       a  ",
+    "                                a       a  ",
+    "                                aaa   aaa  ",
+    "                                   aaa     ",
+    "                                           "
+    ],
+    [
+    "                                           ",
+    "                                   aaa     ",
+    "                                aaasssaaa  ",
+    "                                asstttssa  ",
+    "                                astttttsa  ",
+    "                               astttttttsa ",
+    "                               astttttttsa ",
+    "                               astttttttsa ",
+    "                                astttttsa  ",
+    "                                asstttssa  ",
+    "                                aaasssaaa  ",
+    "                                   aaa     ",
+    "                                           "
+      ]
+    ],
+    "keys": {
+      "a": [
+        "modular_machinery_reborn:casing_reinforced"
+      ],
+      "b": [
+        "minecraft:stone"
+      ],
+      "c": [
+        "modular_machinery_reborn:casing_gearbox"
+      ],
+      "d": [
+        "actuallyadditions:empowerer"
+      ],
+      "e": [
+        "#modular_machinery_reborn:outputbus"
+      ],
+      "f": [
+        "#modular_machinery_reborn:inputbus"
+      ],
+      "g": [
+        "#modular_machinery_reborn:energyinputhatch"
+      ],
+      "h": [
+        "actuallyadditions:display_stand"
+      ],
+      "i": [
+        "actuallyadditions:empowered_restonia_crystal_block"
+      ],
+      "l": [
+        "actuallyadditions:empowered_enori_crystal_block"
+      ],
+      "o": [
+        "actuallyadditions:empowered_diamatine_crystal_block"
+      ],
+      "p": [
+        "actuallyadditions:empowered_palis_crystal_block"
+      ],
+      "q": [
+        "actuallyadditions:empowered_void_crystal_block"
+      ],
+      "r": [
+        "actuallyadditions:empowered_emeradic_crystal_block"
+      ],
+      "s": [
+        "modular_machinery_reborn:casing_vent"
+      ],
+      "t": [
+        "actuallyadditions:iron_casing"
+      ]
+    }
+  }
 }

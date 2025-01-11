@@ -1,0 +1,16 @@
+filename = 'allthecompressed-1.21.1-4.1.0.jar'
+name = 'AllTheCompressed'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2e37c2056ec44744686599a3bf43b768d067fa1c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5964271
+project-id = 514045

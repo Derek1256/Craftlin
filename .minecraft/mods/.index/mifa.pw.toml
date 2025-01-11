@@ -1,0 +1,16 @@
+filename = 'mifa-neoforge-1.21.x-1.1.1.jar'
+name = 'More Industrial Foregoing Addons (MIFA)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b4e2ea7e24fdd40de43da197850fddc103607da9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5849852
+project-id = 1086142

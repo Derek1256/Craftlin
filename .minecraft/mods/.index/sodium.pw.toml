@@ -1,0 +1,16 @@
+filename = 'sodium-neoforge-0.6.5+mc1.21.1.jar'
+name = 'Sodium'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e73ec4bdf812bdc31f268598e72db031a1cd7720b384bc6b68dc3c77978f10ac79e282375fe28a434394e4c8c40a529e81726a49549c41c91210aaf941a1cbf4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AANobbMI/versions/zBRij2cH/sodium-neoforge-0.6.5%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'AANobbMI'
+version = 'zBRij2cH'

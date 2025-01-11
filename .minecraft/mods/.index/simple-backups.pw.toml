@@ -1,0 +1,16 @@
+filename = 'SimpleBackups-1.21-4.0.7.jar'
+name = 'Simple Backups'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f01c5d517d49aa8c745b15d6c1c83be8ef55e4b5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5724505
+project-id = 583228

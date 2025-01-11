@@ -1,0 +1,16 @@
+filename = 'ftb-chunks-neoforge-2101.1.5.jar'
+name = 'FTB Chunks'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e26001cb12ec45a40a72036f68f3a783de1076a9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5968500
+project-id = 314906

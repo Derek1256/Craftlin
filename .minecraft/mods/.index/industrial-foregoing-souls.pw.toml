@@ -1,0 +1,16 @@
+filename = 'industrial-foregoing-souls-1.21.1-1.10.3.jar'
+name = 'Industrial Foregoing Souls'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '85a0d3e514201772f4087ffa5e3b021377da880f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5962885
+project-id = 904394

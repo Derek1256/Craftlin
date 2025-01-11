@@ -1,0 +1,16 @@
+filename = 'jmi-neoforge-1.21.1-1.6.jar'
+name = 'JourneyMap Integration'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'f81acfd4715aa5e72367a6d233f2deae68629ec1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5759006
+project-id = 525447

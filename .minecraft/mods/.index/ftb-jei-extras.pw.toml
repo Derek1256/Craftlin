@@ -1,0 +1,16 @@
+filename = 'ftbjeiextras-21.1.4.jar'
+name = 'FTB Jei Extras'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c4ea9d3cfd08517e9413ff1e2ba45aa534da5c4f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5962663
+project-id = 1103259
