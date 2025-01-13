@@ -25,3 +25,6 @@ I must give credits where its due:
 To The people over at GregTech: New Horizons
     Some textures ported from GT:NH to here, 
     and some multis like the miracle top in Twist Space Technology.
+
+To The people over at Draconic Evolution: 
+    For the Core Textures & Dragon Heart Texture.
