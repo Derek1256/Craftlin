@@ -16,3 +16,12 @@ Features & Edits:
 * Custom Mystical agriculture seeds
 * Native AE2 Dark mode! *if you do not like this, remove the folders in `kubejs/assets/`: `advanced_ae, ae2, ae2importexportcard, appflux,extendedae,megacells,merequester`*
 * AE2 Channels disabled
+
+
+
+### Credits
+I must give credits where its due:
+
+To The people over at GregTech: New Horizons
+    Some textures ported from GT:NH to here, 
+    and some multis like the miracle top in Twist Space Technology.
