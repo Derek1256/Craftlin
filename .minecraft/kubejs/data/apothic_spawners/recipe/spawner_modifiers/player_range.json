@@ -1,0 +1,11 @@
+{
+	"type": "apothic_spawners:spawner_modifier",    
+	"mainhand": {
+		"item": "industrialforegoing:range_addon_tier_0"
+	},
+	"stat_changes": [{
+		"type": "apothic_spawners:req_player_range",
+		"value": 4,
+		"max": 48
+	}]
+}

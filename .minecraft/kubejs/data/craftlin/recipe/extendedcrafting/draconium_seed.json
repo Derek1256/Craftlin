@@ -1,0 +1,35 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 4,
+    "pattern": [
+      "AAAABAAAA",
+      "ACCCBCCCA",
+      "ACBBBBBCA",
+      "ACBDBDBCA",
+      "BBBBEBBBB",
+      "ACBDBDBCA",
+      "ACBBBBBCA",
+      "ACCCBCCCA",
+      "AAAABAAAA"
+    ],
+    "key": {
+      "A": {
+        "item": "mysticalagradditions:insanium_essence"
+      },
+      "B": {
+        "item": "craftlin:draconium_ingot_block"
+      },
+      "C": {
+        "item": "mysticalagriculture:awakened_supremium_essence"
+      },
+      "D": {
+        "item": "craftlin:wyvern_core"
+      },
+      "E": {
+        "item": "mysticalagriculture:prosperity_seed_base"
+      }
+    },
+    "result": {
+      "id": "mysticalagriculture:draconium_2_seeds"
+    }
+  }

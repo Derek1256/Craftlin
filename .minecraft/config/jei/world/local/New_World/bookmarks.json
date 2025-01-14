@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"extendedcrafting:ender_star"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"modular_machinery_reborn:controller","components":{"modular_machinery_reborn:machine":"craftlin:dragon_forge"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

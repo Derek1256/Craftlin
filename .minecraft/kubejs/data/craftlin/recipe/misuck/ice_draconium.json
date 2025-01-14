@@ -1,0 +1,21 @@
+{
+    "type": "modern_industrialization:vacuum_freezer",
+    "duration": 1800,
+    "eu": 128,
+    "item_inputs": [
+      {
+        "amount": 1,
+        "item": "powah:dry_ice"
+      },
+      {
+        "amount": 1,
+        "item": "craftlin:draconium_ingot"
+      }
+    ],
+    "item_outputs": [
+      {
+        "amount": 1,
+        "item": "craftlin:ice_draconium_ingot"
+      }
+    ]
+  }

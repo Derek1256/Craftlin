@@ -1,0 +1,13 @@
+{
+    "name": "Certus Quartz",
+    "colors": [
+      "03d3fc",
+      "03a1fc"
+    ],
+    "materialCount": 4096,
+    "ingredient": {
+      "item": "allthecompressed:certus_quartz_block_2x"
+    },
+    "inUltimateSingularity": true
+  }
+  

@@ -1,0 +1,13 @@
+{
+    "name": "Dragonic steel",
+    "colors": [
+      "5c0e8a",
+      "8d07db"
+    ],
+    "materialCount": 2048,
+    "ingredient": {
+      "item": "craftlin:dragonic_steel_ingot"
+    },
+    "inUltimateSingularity": true
+  }
+  

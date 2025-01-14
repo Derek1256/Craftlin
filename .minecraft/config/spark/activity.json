@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Derek1256",
+      "uniqueId": "76227d5c-5d3b-41fd-a20c-cb71ae15878c"
+    },
+    "time": 1732117799661,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/B8p9jOBP33"
+    }
+  }
+]

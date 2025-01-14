@@ -1,0 +1,17 @@
+filename = 'rftoolsbuilder-1.21-7.0.1.jar'
+name = 'RFTools Builder'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'RFToolsBuilder - 1.21-7.0.1'
+
+[download]
+hash = 'ad5070fd6ddf8f6d7bdfdec27e617385f636a760'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5979190
+project-id = 347706

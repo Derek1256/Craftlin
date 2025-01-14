@@ -1,0 +1,21 @@
+{
+    "name": "Draconium",
+    "type": "mysticalagriculture:resource",
+    "tier": "mysticalagradditions:6",
+    "ingredient": {
+        "item": "craftlin:draconium_ingot_block"
+    },
+    "color": "420338",
+    "textures": {
+        "flower": "mysticalagriculture:block/flower_dust",
+        "essence": "mysticalagriculture:item/essence_ingot",
+        "seeds": "mysticalagriculture:item/mystical_seeds"
+    },
+    "baseSecondaryChance": 0.8,
+    "respectsEffectiveFarmalnd": false,
+    "recipes": {
+        "crafting": false,
+        "infusion": false
+    }
+
+}

@@ -1,4 +1,4 @@
-console.log('Initlizating Applied Energistics 2.js!')
+console.log('Server Scripts/Mods: Initlizating Applied Energistics 2.js!')
 ServerEvents.recipes(craftlin => {
 
     // Quantum Armor
@@ -35,7 +35,7 @@ ServerEvents.recipes(craftlin => {
    
    // Infinity Cells
 
-    function infinitycell(itemInput, output) {
+    function infinitycell(itemInput, output, rid) {
         craftlin.shaped(output, [
             'ABA',
             'CDC',
@@ -45,23 +45,24 @@ ServerEvents.recipes(craftlin => {
             B: 'megacells:accumulation_processor',
             C: itemInput,
             D: 'craftlin:inert_infinity_cell',
-            E: 'craftlin:quantum_steel'
-        })
+            E: 'craftlin:dragonic_steel_ingot'
+        }).id(rid)
        }
     
-    infinitycell('minecraft:lava_bucket', 'extendedae:me_infinity_lava_cell')
-    infinitycell('allthecompressed:dirt_4x', 'extendedae:me_infinity_dirt_cell')
-    infinitycell('allthecompressed:andesite_4x', 'extendedae:me_infinity_andesite_cell')
-    infinitycell('allthecompressed:diorite_4x', 'extendedae:me_infinity_diorite_cell')
-    infinitycell('allthecompressed:calcite_3x', 'extendedae:me_infinity_calcite_cell')
-    infinitycell('allthecompressed:netherrack_4x', 'extendedae:me_infinity_netherrack_cell')
-    infinitycell('allthecompressed:soul_sand_4x', 'extendedae:me_infinity_soul_sand_cell')
-    infinitycell('allthecompressed:granite_4x', 'extendedae:me_infinity_granite_cell')
-    infinitycell('allthecompressed:basalt_4x', 'extendedae:me_infinity_basalt_cell')
-    infinitycell('allthecompressed:blackstone_4x', 'extendedae:me_infinity_blackstone_cell')
-    infinitycell('allthecompressed:tuff_4x', 'extendedae:me_infinity_tuff_cell')
-    infinitycell('allthecompressed:end_stone_5x', 'extendedae:me_infinity_endstone_cell')
-    infinitycell('allthecompressed:sand_4x', 'extendedae:me_infinity_sand_cell')
-    infinitycell('allthecompressed:moss_block_3x', 'extendedae:me_infinity_moss_cell')
+    infinitycell('minecraft:lava_bucket', 'extendedae:me_infinity_lava_cell', 'craftlin:extendedae/infinity_cell/lava')
+    infinitycell('allthecompressed:dirt_4x', 'extendedae:me_infinity_dirt_cell', 'craftlin:extendedae/infinity_cell/dirt')
+    infinitycell('allthecompressed:andesite_4x', 'extendedae:me_infinity_andesite_cell', 'craftlin:extendedae/infinity_cell/andesite')
+    infinitycell('allthecompressed:diorite_4x', 'extendedae:me_infinity_diorite_cell', 'craftlin:extendedae/infinity_cell/diorite')
+    infinitycell('allthecompressed:calcite_3x', 'extendedae:me_infinity_calcite_cell', 'craftlin:extendedae/infinity_cell/calcite')
+    infinitycell('allthecompressed:netherrack_4x', 'extendedae:me_infinity_netherrack_cell', 'craftlin:extendedae/infinity_cell/netherrack')
+    infinitycell('allthecompressed:soul_sand_4x', 'extendedae:me_infinity_soul_sand_cell', 'craftlin:extendedae/infinity_cell/soul_sand')
+    infinitycell('allthecompressed:granite_4x', 'extendedae:me_infinity_granite_cell', 'craftlin:extendedae/infinity_cell/granite')
+    infinitycell('allthecompressed:basalt_4x', 'extendedae:me_infinity_basalt_cell', 'craftlin:extendedae/infinity_cell/basalt')
+    infinitycell('allthecompressed:blackstone_4x', 'extendedae:me_infinity_blackstone_cell', 'craftlin:extendedae/infinity_cell/blackstone')
+    infinitycell('allthecompressed:tuff_4x', 'extendedae:me_infinity_tuff_cell', 'craftlin:extendedae/infinity_cell/tuff')
+    infinitycell('allthecompressed:end_stone_5x', 'extendedae:me_infinity_endstone_cell', 'craftlin:extendedae/infinity_cell/end_stone')
+    infinitycell('allthecompressed:sand_4x', 'extendedae:me_infinity_sand_cell', 'craftlin:extendedae/infinity_cell/sand')
+    infinitycell('allthecompressed:moss_block_3x', 'extendedae:me_infinity_moss_cell', 'craftlin:extendedae/infinity_cell/moss_block')
 })
-console.log('Applied Energistics 2.js is loaded!')
+
+console.log('Server Scripts/Mods: Applied Energistics 2.js is loaded!')

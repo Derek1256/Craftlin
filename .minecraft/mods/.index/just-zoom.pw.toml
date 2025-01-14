@@ -1,0 +1,17 @@
+filename = 'justzoom_neoforge_2.0.0_MC_1.21-1.21.1.jar'
+name = 'Just Zoom'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] v2.0.0 MC 1.21-1.21.1'
+
+[download]
+hash = 'bf4ef20354586663cc4ab8d32cb220e8e036b471'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5619666
+project-id = 561885

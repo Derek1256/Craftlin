@@ -1,0 +1,17 @@
+filename = 'rftoolsbase-1.21-6.0.3.jar'
+name = 'RFTools Base'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'RFToolsBase - 1.21-6.0.3'
+
+[download]
+hash = 'ccc9aa6a9eac05969f606fb6866f0cdeb55a5c08'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5979188
+project-id = 326041

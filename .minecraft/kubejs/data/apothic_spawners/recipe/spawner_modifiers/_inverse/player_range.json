@@ -1,0 +1,15 @@
+{
+	"type": "apothic_spawners:spawner_modifier",
+	"mainhand": {
+		"item": "industrialforegoing:range_addon_tier_0"
+	},
+	"offhand": {
+		"item": "minecraft:quartz"
+	},
+	"consumes_offhand": false,
+	"stat_changes": [{
+		"type": "apothic_spawners:req_player_range",
+		"value": -4,
+		"min": 1
+	}]
+}

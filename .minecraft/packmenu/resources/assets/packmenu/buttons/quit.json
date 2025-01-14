@@ -1,0 +1,13 @@
+{
+    "x": 2,
+    "y": 84,
+    "width": 98,
+    "height": 20,
+    "text": {
+        "key": "menu.quit"
+    },
+    "texture": "craftlin:textures/gui/widgets.png",
+    "action": {
+        "type": "packmenu:quit"
+    }
+}

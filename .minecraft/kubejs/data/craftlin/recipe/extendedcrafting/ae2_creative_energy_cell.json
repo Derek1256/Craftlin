@@ -1,5 +1,6 @@
 {
     "type": "extendedcrafting:shaped_table",
+    "tier": 4,
     "pattern": [
       "AAAABAAAA",
       "ABBBBBBBA",

@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"actuallyadditions:empowered_emeradic_crystal_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"actuallyadditions:empowered_emeradic_crystal"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,8 +1,7 @@
 StartupEvents.registry('item', craftlin => {
     
-    // The recipe things
+    // Infinity Cell Housing
     
-    craftlin.create('craftlin:quantum_steel').displayName('Dragonic Steel').texture('craftlin:item/draconium_steel').tooltip('Will make sense later......')
     craftlin.create('craftlin:inert_infinity_cell').displayName('Inert infinity cell').texture('craftlin:item/inert_infinity_cell')
     
     // block Cells

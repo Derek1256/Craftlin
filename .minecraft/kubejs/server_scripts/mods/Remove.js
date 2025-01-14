@@ -40,7 +40,20 @@ const removerecipebyid = [
     'modular_machinery_reborn:modularium',
     'mekanism:control_circuit/infused_advanced',
     'mekanism:control_circuit/infused_elite',
-    'mekanism:control_circuit/infused_ultimate'
+    'mekanism:control_circuit/infused_ultimate',
+    'mekanismgenerators:reactor/frame',
+    'twilightforest:uncrafting_table',
+    'justdirethings:time_wand',
+    'extendedae:circuit_cutter',
+    'extendedae:assembler/circuit_cutter',
+    'advanced_ae:quantum_processor_eae',
+    'extendedae:assembler/calculation_processor',
+    'extendedae:assembler/logic_processor',
+    'extendedae:assembler/engineering_processor',
+    'extendedae:assembler/energy_processor',
+    'extendedae:assembler/concurrent_processor',
+    'extendedae:assembler/accumulation_processor',
+    'rftoolsbuilder:builder'
 ]
 ServerEvents.recipes(craftlin => {
     removerecipebyid.forEach((recipe) => {

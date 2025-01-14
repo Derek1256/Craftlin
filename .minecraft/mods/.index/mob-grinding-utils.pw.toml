@@ -1,0 +1,17 @@
+filename = 'mob_grinding_utils-1.1.7+mc1.21.1.jar'
+name = 'Mob Grinding Utils'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mob_grinding_utils-1.1.7+mc1.21.1.jar'
+
+[download]
+hash = 'c9c592843e4d06ce9057d67cb33ef2b89d4b1113'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6022733
+project-id = 254241

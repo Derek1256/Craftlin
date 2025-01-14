@@ -1,0 +1,11 @@
+{
+	"type": "apothic_spawners:spawner_modifier",
+	"mainhand": {
+		"item": "craftlin:ice_draconium"
+	},
+	"stat_changes": [{
+		"type": "apothic_spawners:min_delay",
+		"value": -10,
+		"min": 20
+	}]
+}
