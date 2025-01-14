@@ -1363,6 +1363,5 @@
       "q": [
         "#modular_machinery_reborn_mekanism:chemicaloutputhatch"
       ]
-    },
-    "controller": "craftlin:block/circuit_dream"
+    }
   }}
