@@ -2,14 +2,14 @@ StartupEvents.registry('item', craftlin => {
     
     // Ingots
     
-    craftlin.create('craftlin:dragonic_steel_ingot').displayName('Dragonic Steel Ingot').texture('craftlin:item/dragonic_steel').tooltip('Will make sense later......').rarity('epic')
-    craftlin.create('craftlin:ice_draconium_ingot').displayName('Ice Draconium Ingot').texture("craftlin:item/icesteel").rarity('rare')
-    craftlin.create('craftlin:draconium_ingot').displayName('Draconium Ingot').texture('craftlin:item/draconium').rarity('epic')
+    craftlin.create('craftlin:dragonic_steel_ingot').displayName('Dragonic Steel Ingot').texture('craftlin:item/ingots/dragonic_steel').tooltip('Will make sense later......').rarity('epic')
+    craftlin.create('craftlin:ice_draconium_ingot').displayName('Ice Draconium Ingot').texture("craftlin:item/ingots/icesteel").rarity('rare')
+    craftlin.create('craftlin:draconium_ingot').displayName('Draconium Ingot').texture('craftlin:item/ingots/draconium_dust').rarity('epic')
 
     // Dusts
 
-    craftlin.create('craftlin:dragonic_steel_dust').displayName('Dragonic Steel Dust').texture('craftlin:item/dragonic_steel_dust')
-    craftlin.create('craftlin:draconium_ingot_dust').displayName('Draconium Dust').texture('craftlin:item/draconium_dust').tooltip("§6Can be obtained by the Ender Dragon.")
+    craftlin.create('craftlin:dragonic_steel_dust').displayName('Dragonic Steel Dust').texture('craftlin:item/dusts/dragonic_steel_dust')
+    craftlin.create('craftlin:draconium_ingot_dust').displayName('Draconium Dust').texture('craftlin:item/dusts/draconium_dust').tooltip("§6Can be obtained by the Ender Dragon.")
 
     // Cores
 
