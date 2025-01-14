@@ -1,5 +1,4 @@
-[![Curse Forge](https://cf.way2muchnoise.eu/full_1144729_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/project-craftlin) |     <a href="https://discord.gg/JrGHwStyDa"><img src="https://img.shields.io/discord/738517355537236129?color=5464ec&label=Discord&style=for-the-badge" alt="Discord"></a>
-    <br>
+[![Curse Forge](https://cf.way2muchnoise.eu/full_1144729_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/project-craftlin) |     <a href="https://discord.gg/JrGHwStyDa"><img src="https://img.shields.io/discord/738517355537236129?color=5464ec&label=Discord&style=for-the-badge" alt="Discord"></a><br>
 
 
 * * *
