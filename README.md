@@ -1,3 +1,8 @@
+[![Curse Forge](http://cf.way2muchnoise.eu/full_project-craftlin_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/project-craftlin)
+
+
+* * *
+
 ![image](https://media.forgecdn.net/attachments/description/1144729/description_1e6c3c33-fdf4-446b-ba73-3a84de02f0bf.png)
 
 * * *
