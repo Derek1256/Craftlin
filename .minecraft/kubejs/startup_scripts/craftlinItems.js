@@ -4,7 +4,7 @@ StartupEvents.registry('item', craftlin => {
     
     craftlin.create('craftlin:dragonic_steel_ingot').displayName('Dragonic Steel Ingot').texture('craftlin:item/ingots/dragonic_steel').tooltip('Will make sense later......').rarity('epic')
     craftlin.create('craftlin:ice_draconium_ingot').displayName('Ice Draconium Ingot').texture("craftlin:item/ingots/icesteel").rarity('rare')
-    craftlin.create('craftlin:draconium_ingot').displayName('Draconium Ingot').texture('craftlin:item/ingots/draconium_dust').rarity('epic')
+    craftlin.create('craftlin:draconium_ingot').displayName('Draconium Ingot').texture('craftlin:item/ingots/draconium_ingot').rarity('epic')
 
     // Dusts
 
@@ -13,9 +13,9 @@ StartupEvents.registry('item', craftlin => {
 
     // Cores
 
-    craftlin.create('craftlin:draconium_core').displayName("Draconium Core").texture('craftlin:item/draconium_core')
-    craftlin.create('craftlin:wyvern_core').displayName("Wyvern Core").texture('craftlin:item/wyvern_core')
-    craftlin.create('craftlin:awakened_core').displayName("Draconic Core").texture('craftlin:item/awakened_core')
+    craftlin.create('craftlin:draconium_core').displayName("Draconium Core").texture('craftlin:item/cores/draconium_core')
+    craftlin.create('craftlin:wyvern_core').displayName("Wyvern Core").texture('craftlin:item/cores/wyvern_core')
+    craftlin.create('craftlin:awakened_core').displayName("Draconic Core").texture('craftlin:item/cores/awakened_core')
     
     // Misc
 
