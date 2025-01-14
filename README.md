@@ -1,30 +1,31 @@
-### Quests have not been added yet. still seeing if i can get someone to want to do it, or how i want to do the quests.
+![image](https://media.forgecdn.net/attachments/description/1144729/description_1e6c3c33-fdf4-446b-ba73-3a84de02f0bf.png)
 
+* * *
 
+Welcome to Project: Craftlin! This is a heavy technology focused modpack (barely any magic!) The goal of the modpack is too 100% the questbook, and make the creative tab icon.
 
+* * *
 
-# Project: Craftlin
+![image](https://media.forgecdn.net/attachments/description/1144729/description_8813f1bf-42a5-48c5-bd33-27595ef2e192.png)
 
+* * *
 
-Project: Craftlin is a heavy technology focused modpack based in the version of 1.21, the ultimate goal will be to 100% the quest book. some key things to note: AE2 Channels are turned off, (can be turned back on) to make the difference from RS to AE pretty much nothing, apart from the obvious mod themselfs differences. **we have custom miners**. which will aid you in the late game when you have maxxed out mekanism 3-4x ore proc.
+Our features are:
 
-Features & Edits:
-* 10 tiers of custom miners (WIP)
-* Quest book (aiming  for 600+ Quests when done)
-* Advanced AE (With buffed Quantum computers)
-* Avaritia Neo
-* Custom Mystical agriculture seeds
-* Native AE2 Dark mode! *if you do not like this, remove the folders in `kubejs/assets/`: `advanced_ae, ae2, ae2importexportcard, appflux,extendedae,megacells,merequester`*
-* AE2 Channels disabled
+*   A extensive Questbook (coming soonish)
+*   Custom Void Miner
+*   Native Applied Energistics 2 Dark mode (If you do not like this remove the `ae2/megacells/advancedae/ae2importexportcard/extendedae/appflux/merequester` folders in `/kubejs/assets`)
+*   Custom Mystical Agriculture Seeds
+*   Buffed AdvancedAE Quantum Computers
+*   Soon to have tons of custom machines & Multiblocks to spice up the endgame
 
+* * *
 
+![image](https://media.forgecdn.net/attachments/description/1144729/description_64e3e50a-e026-474b-8e74-e9c8d6f93d7d.png)
 
-### Credits
-I must give credits where its due:
+* * *
 
-To The people over at GregTech: New Horizons
-    Some textures ported from GT:NH to here, 
-    and some multis like the miracle top in Twist Space Technology.
+I must give Credits where its due:
 
-To The people over at Draconic Evolution: 
-    For the Core Textures & Dragon Heart Texture.
+*   <span style="color:#e67e23">GT: New Horizons &amp; Twist Space Technology</span> (TST for the miracle top, GT:NH for the casing.
+*   <span style="color:#e67e23">Draconic Evolution</span> (For the Cores & Dragon Heart texture)
