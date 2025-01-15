@@ -14,7 +14,7 @@ body:
     id: fixes
     attributes:
       label: Possible Fixes
-      description: Have you tried the above mentioned points?
+      description: Have you done/checked the things above?
       options:
         - "Yes"
         - "No"
