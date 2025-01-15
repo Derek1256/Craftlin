@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "basic_machinery"
+	group: "4C480122E6216927"
+	id: "026FF2CBB0592817"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

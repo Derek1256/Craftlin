@@ -1,6 +1,10 @@
 console.log('Server Scripts/Mods: Initlizating Applied Energistics 2.js!')
 ServerEvents.recipes(craftlin => {
+   
+    // Applied Experienced
 
+   craftlin.shaped(Item.of('appex:experience_converter', 1), ['ACA', 'CBC', 'ACA'], { A: 'ae2:engineering_processor', B: 'enderio:experience_rod', C: 'minecraft:glass' }).id('craftlin:apppliedexp/crafting/expconverter')
+   
     // Quantum Armor
 
     function quantumcraft(output, armorInput) {
@@ -31,8 +35,7 @@ ServerEvents.recipes(craftlin => {
         D: 'ae2:singularity'
 
     }).id('craftlin:appliedenergistics2/inert_infinity_cell')
-   
-   
+
    // Infinity Cells
 
     function infinitycell(itemInput, output, rid) {
@@ -64,5 +67,4 @@ ServerEvents.recipes(craftlin => {
     infinitycell('allthecompressed:sand_4x', 'extendedae:me_infinity_sand_cell', 'craftlin:extendedae/infinity_cell/sand')
     infinitycell('allthecompressed:moss_block_3x', 'extendedae:me_infinity_moss_cell', 'craftlin:extendedae/infinity_cell/moss_block')
 })
-
 console.log('Server Scripts/Mods: Applied Energistics 2.js is loaded!')

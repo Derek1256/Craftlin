@@ -4,7 +4,7 @@ StartupEvents.registry('block', craftlin => {
     
     craftlin.create('craftlin:draconium_ingot_block').displayName("Draconium Block").hardness(30.0).resistance(150).requiresTool(true).fullBlock(true).texture('craftlin:block/draconium_block').soundType('metal')    
     
-    // Misc Blockss
+    // Misc Blocks
 
 
     
@@ -15,7 +15,8 @@ StartupEvents.registry('block', craftlin => {
 
 
 
-
+    // Casings
+    craftlin.create('craftlin:stained_casing').displayName("Stained Casing").hardness(30.0).resistance(150).requiresTool(true).texture('craftlin:block/casing/stained_casing').stoneSoundType()
 
 
 

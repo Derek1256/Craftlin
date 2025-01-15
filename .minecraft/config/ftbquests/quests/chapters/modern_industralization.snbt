@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "modern_industralization"
+	group: "267B556CDECE3865"
+	id: "22447DADD5A1C813"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}

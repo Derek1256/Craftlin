@@ -53,11 +53,24 @@ const removerecipebyid = [
     'extendedae:assembler/energy_processor',
     'extendedae:assembler/concurrent_processor',
     'extendedae:assembler/accumulation_processor',
-    'rftoolsbuilder:builder'
+    'rftoolsbuilder:builder',
+    'advanced_ae:quantumcrafter',
+    'mekanism:control_circuit/basic',
+    'mekanism:metallurgic_infusing/alloy/infused',
+    'mysticalagriculture:essence/enderio/copper_alloy_ingot',
+    'mysticalagriculture:essence/enderio/redstone_alloy_ingot',
+    'mysticalagriculture:essence/enderio/conductive_alloy_ingot',
+    'mysticalagriculture:essence/enderio/pulsating_alloy_ingot',
+    'mysticalagriculture:essence/enderio/energetic_alloy_ingot',
+    'mysticalagriculture:essence/enderio/vibrant_alloy_ingot',
+    'mysticalagriculture:essence/enderio/dark_steel_ingot',
+    'mysticalagriculture:essence/enderio/soularium_ingot',
+    'mysticalagriculture:essence/enderio/end_steel_ingot'
 ]
 ServerEvents.recipes(craftlin => {
     removerecipebyid.forEach((recipe) => {
         craftlin.remove({ id: recipe })
     })
+    craftlin.remove({ type: 'twilightforest:uncrafting' })
 })
 console.log('Recipe Removal.js is loaded!')

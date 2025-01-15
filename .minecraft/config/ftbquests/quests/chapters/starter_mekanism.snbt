@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starter_mekanism"
+	group: "6E3DA606753986E0"
+	id: "018680B63FDDE8A2"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

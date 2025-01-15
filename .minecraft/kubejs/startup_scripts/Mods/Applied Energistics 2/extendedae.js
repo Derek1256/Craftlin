@@ -2,7 +2,7 @@ StartupEvents.registry('item', craftlin => {
     
     // Infinity Cell Housing
     
-    craftlin.create('craftlin:inert_infinity_cell').displayName('Inert infinity cell').texture('craftlin:item/inert_infinity_cell')
+    craftlin.create('craftlin:inert_infinity_cell').displayName('Inert infinity cell').texture('craftlin:item/infinity_cells/inert_infinity_cell')
     
     // block Cells
 

@@ -1,0 +1,56 @@
+{
+    "type": "extendedcrafting:shaped_table",
+    "tier": 3,
+    "pattern": [
+      "ABCDCBA",
+      "BEFFFEB",
+      "CFGHGFC",
+      "DFIJIFD",
+      "CFGHGFC",
+      "BEFFFEB",
+      "ABCDCBA"
+    ],
+    "key": {
+      "A": {
+        "item": "modular_machinery_reborn:modularium"
+      },
+      "B": {
+        "item": "craftlin:draconium_ingot"
+      },
+      "C": {
+        "item": "craftlin:molecular_casing"
+      },
+      "D": {
+        "item": "craftlin:ice_draconium_ingot"
+      },
+      "E": {
+        "item": "advanced_ae:quantum_alloy_plate"
+      },
+      "F": {
+        "item": "mekanism_extras:alloy_spectrum"
+      },
+      "G": {
+        "item": "craftlin:awakened_core"
+      },
+      "H": {
+        "item": "enderio:pulsating_alloy_ingot"
+      },
+      "I": {
+        "items": "extendedcrafting:singularity",
+        "components": {
+          "extendedcrafting:singularity_id": "extendedcrafting:dragonic_steel"
+        },
+        "type": "neoforge:components"
+      },
+      "J": {
+        "item": "modular_machinery_reborn:blueprint"
+      }
+    },
+    "result": {
+      "id": "modular_machinery_reborn:controller",
+      "components": {
+        "modular_machinery_reborn:machine": "circuit_dream"
+      },
+      "type": "neoforge:components"
+    }
+  }

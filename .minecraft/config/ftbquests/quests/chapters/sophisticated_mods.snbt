@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sophisticated_mods"
+	group: "2D2D388205C93436"
+	id: "75EC469C578A8B8B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

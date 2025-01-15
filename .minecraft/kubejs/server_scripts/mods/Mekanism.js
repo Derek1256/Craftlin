@@ -21,6 +21,8 @@ ServerEvents.recipes(craftlin => {
     crusher('craftlin:dragonic_steel_dust', 'craftlin:dragonic_steel_ingot').id('craftlin:mekanism/crusher/dragonic_steel_dust')
     crusher('craftlin:draconium_ingot_dust', 'craftlin:draconium_ingot').id('craftlin:mekanism/crussher/draconium_ingot_dust')
 
+
+
     // Combining
 
     let combine = craftlin.recipes.mekanism.combining
@@ -40,5 +42,44 @@ ServerEvents.recipes(craftlin => {
             "id": "actuallyadditions:black_quartz"
         }
     })
+
+
+    // Infushonnnnnnnnnnnnnn
+    
+    craftlin.custom({
+        "type": "mekanism:metallurgic_infusing",
+        "chemical_input": {
+          "amount": 40,
+          "tag": "mekanism:redstone"
+        },
+        "item_input": {
+          "count": 1,
+          "item": "pneumaticcraft:capacitor"
+        },
+        "output": {
+          "count": 1,
+          "id": "mekanism:alloy_infused"
+        },
+        "per_tick_usage": false
+      }).id('craftlin:mekanism/infusing/infused_alloy')
+
+    craftlin.custom({
+        "type": "mekanism:metallurgic_infusing",
+        "chemical_input": {
+          "amount": 80,
+          "tag": "mekanism:redstone"
+        },
+        "item_input": {
+          "count": 1,
+          "item": "pneumaticcraft:transistor"
+        },
+        "output": {
+          "count": 1,
+          "id": "mekanism:basic_control_circuit"
+        },
+        "per_tick_usage": false
+      }).id('craftlin:mekanism/infusing/basic_control_circuit')
+
+
 })
 console.log('Initialized Mekanism.js!')

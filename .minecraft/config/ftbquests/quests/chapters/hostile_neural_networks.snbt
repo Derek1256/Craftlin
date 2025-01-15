@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hostile_neural_networks"
+	group: "579D1BF1C205E35E"
+	id: "64B11C1B223D868D"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+}

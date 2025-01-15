@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mob_grinding_utils"
+	group: "579D1BF1C205E35E"
+	id: "735610CDFD2C45D3"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+}

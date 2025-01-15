@@ -1,0 +1,51 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starting_out"
+	group: "5604E0A268E8286D"
+	id: "56C17A11E2BF2E89"
+	images: [{
+		height: 7.0d
+		image: "craftlin:textures/gui/biglogo.png"
+		rotation: 0.0d
+		width: 19.3d
+		x: -4.0d
+		y: -7.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		icon: {
+			id: "craftlin:creative_tab_icon"
+		}
+		id: "5136035CFA9005FA"
+		progression_mode: "flexible"
+		rewards: [
+			{
+				id: "0AE50B79FE6E9A21"
+				item: {
+					count: 1
+					id: "minecraft:white_bed"
+				}
+				type: "item"
+			}
+			{
+				count: 16
+				id: "042406E43F245F5D"
+				item: {
+					count: 1
+					id: "minecraft:cooked_beef"
+				}
+				type: "item"
+			}
+		]
+		shape: "gear"
+		size: 4.5d
+		tasks: [{
+			id: "21005B69FD0A353B"
+			type: "checkmark"
+		}]
+		x: -4.5d
+		y: -2.25d
+	}]
+}

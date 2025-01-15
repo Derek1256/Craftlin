@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apotheosis"
+	group: "579D1BF1C205E35E"
+	id: "021D93D3660202F9"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}
