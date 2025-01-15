@@ -1,5 +1,11 @@
 Recipes todo:
 * Gate ae2 behind PNC & maybe the Draconic Processor.
+* make the new builder recipe
+* Figure out why extendedcrafting doesnt want to let me do MMR machines as a processing result
+* 
+
+
+
 
 
 * * * 
@@ -27,4 +33,7 @@ Any other scripts todo:
 
 
 * * * 
+
+Mods todo:
+* Add Graves
 
