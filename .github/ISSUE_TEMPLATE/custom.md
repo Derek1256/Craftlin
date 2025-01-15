@@ -1,7 +1,7 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[Bug]"
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: test
 labels: ''
 assignees: Derek1256
 
