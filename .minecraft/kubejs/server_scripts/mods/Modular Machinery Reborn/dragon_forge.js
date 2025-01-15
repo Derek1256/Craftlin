@@ -22,4 +22,10 @@ ServerEvents.recipes(craftlin => {
         .requireItem('4x alltheores:steel_ingot', 30, 5)
         .requireItem('1x craftlin:dragon_heart', 30, 25)
         .produceItem('2x craftlin:dragonic_steel_ingot', 108, 5)
+
+
+
+    // the controller of MB
+
+    craftlin.shaped(Item.of('modular_machinery_reborn:controller[modular_machinery_reborn:machine="craftlin:dragon_forge"]', 1), ['CDC', 'BAB', 'CDC'], { A: 'modular_machinery_reborn:blueprint', B: 'craftlin:wyvern_core', C: 'mekanism_extras:supreme_control_circuit', D: 'modular_machinery_reborn:modularium'})
 })

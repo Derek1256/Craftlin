@@ -7,7 +7,7 @@ ServerEvents.recipes(craftlin => {
    
     // Quantum Armor
 
-    function quantumcraft(output, armorInput) {
+    function quantumcraft(output, armorInput, rid) {
     craftlin.shaped(output, [
         'QWQ',
         'QNQ',
@@ -18,12 +18,12 @@ ServerEvents.recipes(craftlin => {
         P: 'advanced_ae:quantum_alloy_plate',
         S: 'advanced_ae:quantum_storage_component',
         N: armorInput
-    })
+    }).id(rid)
    }
-   quantumcraft('advanced_ae:quantum_helmet', 'mekanism:mekasuit_helmet')
-   quantumcraft('advanced_ae:quantum_chestplate', 'mekanism:mekasuit_bodyarmor')
-   quantumcraft('advanced_ae:quantum_leggings', 'mekanism:mekasuit_pants')
-   quantumcraft('advanced_ae:quantum_boots', 'mekanism:mekasuit_boots')
+   quantumcraft('advanced_ae:quantum_helmet', 'mekanism:mekasuit_helmet', 'craftlin:advancedae/quantumarmor/helmet')
+   quantumcraft('advanced_ae:quantum_chestplate', 'mekanism:mekasuit_bodyarmor', 'craftlin:advancedae/quantumarmor/chestplate')
+   quantumcraft('advanced_ae:quantum_leggings', 'mekanism:mekasuit_pants', 'craftlin:advancedae/quantumarmor/leggings')
+   quantumcraft('advanced_ae:quantum_boots', 'mekanism:mekasuit_boots', 'craftlin:advancedae/quantumarmor/boots')
 
     // Inert Infinity Cell
    
@@ -66,5 +66,96 @@ ServerEvents.recipes(craftlin => {
     infinitycell('allthecompressed:end_stone_5x', 'extendedae:me_infinity_endstone_cell', 'craftlin:extendedae/infinity_cell/end_stone')
     infinitycell('allthecompressed:sand_4x', 'extendedae:me_infinity_sand_cell', 'craftlin:extendedae/infinity_cell/sand')
     infinitycell('allthecompressed:moss_block_3x', 'extendedae:me_infinity_moss_cell', 'craftlin:extendedae/infinity_cell/moss_block')
+
+    // Controller & Energy acceptor
+
+    craftlin.custom({
+        "type": "extendedcrafting:shaped_table",
+        "tier": 3,
+        "pattern": [
+          "ABCDCBA",
+          "BEFDFEB",
+          "CGHDHGC",
+          "DDDIDDD",
+          "CGHDHGC",
+          "BEFDFEB",
+          "ABCDCBA"
+        ],
+        "key": {
+          "A": {
+            "item": "ae2:engineering_processor"
+          },
+          "B": {
+            "item": "ae2:smooth_sky_stone_block"
+          },
+          "C": {
+            "item": "ae2:energy_cell"
+          },
+          "D": {
+            "item": "enderio:dark_steel_ingot"
+          },
+          "E": {
+            "item": "ae2:fluix_crystal"
+          },
+          "F": {
+            "item": "mekanism:advanced_control_circuit"
+          },
+          "G": {
+            "item": "mekanism:alloy_infused"
+          },
+          "H": {
+            "item": "twilightforest:knightmetal_ingot"
+          },
+          "I": {
+            "item": "ae2:energy_acceptor"
+          }
+        },
+        "result": {
+          "id": "ae2:controller"
+        }
+      })
+
+    craftlin.custom({
+        "type": "extendedcrafting:shaped_table",
+        "tier": 2,
+        "pattern": [
+          "ABCBA",
+          "BDEDB",
+          "CEFEC",
+          "BDEDB",
+          "ABCBA"
+        ],
+        "key": {
+          "A": {
+            "item": "pneumaticcraft:printed_circuit_board"
+          },
+          "B": {
+            "item": "ae2:quartz_fiber"
+          },
+          "C": {
+            "item": "ae2:logic_processor"
+          },
+          "D": {
+            "item": "pneumaticcraft:ingot_iron_compressed"
+          },
+          "E": {
+            "item": "modern_industrialization:aluminum_large_plate"
+          },
+          "F": {
+            "item": "mekanism:steel_casing"
+          }
+        },
+        "result": {
+          "id": "ae2:energy_acceptor"
+        }
+      })
+
+
+
+
+
+
+
+
 })
 console.log('Server Scripts/Mods: Applied Energistics 2.js is loaded!')

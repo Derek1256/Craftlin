@@ -65,7 +65,12 @@ const removerecipebyid = [
     'mysticalagriculture:essence/enderio/vibrant_alloy_ingot',
     'mysticalagriculture:essence/enderio/dark_steel_ingot',
     'mysticalagriculture:essence/enderio/soularium_ingot',
-    'mysticalagriculture:essence/enderio/end_steel_ingot'
+    'mysticalagriculture:essence/enderio/end_steel_ingot',
+    'easy_villagers:trader',
+    'easy_villagers:auto_trader',
+    'easy_villagers:iron_farm',
+    'ae2:network/blocks/controller',
+    'ae2:network/blocks/energy_energy_acceptor'
 ]
 ServerEvents.recipes(craftlin => {
     removerecipebyid.forEach((recipe) => {
