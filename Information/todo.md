@@ -1,5 +1,4 @@
 Recipes todo:
-* Gate ae2 behind PNC & maybe the Draconic Processor.
 * make the new builder recipe
 * Figure out why extendedcrafting doesnt want to let me do MMR machines as a processing result
 * 
@@ -17,13 +16,14 @@ Config Changes todo:
 * * * 
 
 Quest todo:
-
+* Finish Making the QLs
+* Rework the starting out QL.
 
 
 * * * 
 
 Multiblocks todo:
-
+* Dread Processors
 
 
 * * * 
