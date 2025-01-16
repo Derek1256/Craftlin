@@ -7,10 +7,15 @@
 	chapter.084F324F0B52B211.title: "The Beginning"
 	chapter.22447DADD5A1C813.title: "Modern Industralization"
 	chapter.2AA2025AB1BDB579.title: "Mekanism"
+	chapter.3E27FC2279702C85.chapter_subtitle: ["Mob Farms Without Mob Farms"]
+	chapter.3E27FC2279702C85.title: "Hostile Neural Networks"
 	chapter.3EF4C9165C296E43.title: "Just Dire Things"
 	chapter.50084EA3F7480807.title: "Bloody Processors"
+	chapter.5174D9D6A911188A.chapter_subtitle: ["&bUseful For Hiding Bad Setups"]
+	chapter.5174D9D6A911188A.title: "Compact Machines"
 	chapter.56C17A11E2BF2E89.title: "Starting Out"
 	chapter.5E63D66A067364C6.title: "Gateways To Enternity"
+	chapter.64B11C1B223D868D.chapter_subtitle: ["Digitalized Mob Farming!"]
 	chapter.64B11C1B223D868D.title: "Hostile Neural Networks"
 	chapter.6C925E96270D763C.title: "Industrial Foregoing"
 	chapter.735610CDFD2C45D3.title: "Mob Grinding Utils"
@@ -18,12 +23,49 @@
 	chapter.7E89D7990B57D2F5.title: "Applied Energistics 2"
 	chapter_group.267B556CDECE3865.title: "Technology Tree"
 	chapter_group.2D2D388205C93436.title: "Storage Solutions"
+	chapter_group.39C13582399FE755.title: "Misc"
 	chapter_group.4C480122E6216927.title: "Modular Machinery"
 	chapter_group.5604E0A268E8286D.title: "Information"
 	chapter_group.579D1BF1C205E35E.title: "Mob Tree"
 	chapter_group.6E3DA606753986E0.title: "Getting started"
 	file.0000000000000001.title: "Project: Craftlin"
+	quest.0D92AB3C092D432C.quest_desc: ["Click on a mob with this item to create a faulty model of it, which will need to be upgraded to basic before it can be used."]
+	quest.0D92AB3C092D432C.quest_subtitle: "CTRL-C"
+	quest.0F3D56A55864F8D2.quest_desc: ["5x5x5"]
+	quest.0F3D56A55864F8D2.quest_subtitle: "A Little More Space"
+	quest.128ED3E3CBDB9F81.quest_desc: ["Tunnels can be used to transfer items, fluids, and enery in and out of compact machines"]
+	quest.128ED3E3CBDB9F81.quest_subtitle: "Poking Holes"
+	quest.128ED3E3CBDB9F81.title: "Tunnels"
+	quest.12A52AA433202D12.quest_desc: ["Hostile Neural Networks is a mod that allows virtual mob farms. Mob farms that are condensed down to a single block and are much more rewarding."]
+	quest.12A52AA433202D12.quest_subtitle: "Nether Star Jumpscare"
+	quest.12A72F57D6B70093.quest_desc: ["13x13x13"]
+	quest.12A72F57D6B70093.quest_subtitle: "Echo!"
+	quest.143429D263B78A45.quest_desc: ["Used to mass produce various items from pristine predictions."]
+	quest.143429D263B78A45.quest_subtitle: "The Money-Maker"
+	quest.219A76C3E80C6D96.quest_desc: ["11x11x11"]
+	quest.219A76C3E80C6D96.quest_subtitle: "You Could Fit A House in Here"
+	quest.252932E306C0C691.quest_desc: ["The Simulation Chamber is used to run simulations. As long as their is a model inside it and prediction matrixs are supplied, it will produce generalized and pristine predictions."]
+	quest.252932E306C0C691.quest_subtitle: "Bitcoin Miner (Real)"
+	quest.41F4ADAF22ACBAB7.quest_desc: ["7x7x7"]
+	quest.41F4ADAF22ACBAB7.quest_subtitle: "Room To Breathe"
+	quest.43FF992D0310FED5.quest_desc: ["Once you aquire a faulty data model, insert it into the Deep Learner and kill six mobs of the same type in order to upgrade the model to a basic data model."]
+	quest.43FF992D0310FED5.quest_subtitle: "4D Chess"
+	quest.47ADEA81AEC25E3A.quest_desc: ["Prediction Matrix's are a consumable resource used to run simulations. You'll need a lot of this."]
+	quest.47ADEA81AEC25E3A.quest_subtitle: "Neo"
 	quest.5136035CFA9005FA.quest_desc: ["Welcome to Project: Craftlin, Hope you have fun, Quests are a WIP so expect alot to not have descriptions."]
 	quest.5136035CFA9005FA.quest_subtitle: "Not sure what to write here"
+	quest.51C1AE4199982ABD.quest_desc: ["The lowest tier of Compact Machines, place it in the world and click on it with a personal shrinking device to access a 3x3x3 pocket dimension. To exit, simply click the shrinking device again. Each subsequent tier of Compact Machines will have a larger room than the last"]
+	quest.51C1AE4199982ABD.quest_subtitle: "Cramped"
+	quest.64A97E76047F81CF.quest_desc: ["Compact Machine Walls are the building blocks of Compact Machines."]
+	quest.64A97E76047F81CF.quest_subtitle: "Compactorio"
+	quest.6584400ED48F22F5.quest_desc: ["9x9x9"]
+	quest.6584400ED48F22F5.quest_subtitle: "Now We're Talking"
+	quest.68F7F65CF45DBF53.quest_desc: ["Generalized Predictions are byproducts of simulations. They can be used to create low-value items related to their respective type."]
+	quest.68F7F65CF45DBF53.quest_subtitle: "Is That Cake?"
+	quest.68F7F65CF45DBF53.title: "Generalized Predictions"
+	quest.7A04BBA69767271B.quest_desc: ["Compact Machines is used primarily to store large amounts of machines in small spaces via pocket dimensions. You can access these pocket dimensions using a Personal Shrinking Device."]
+	quest.7A04BBA69767271B.quest_subtitle: "Honey, I Shrunk The Ender Dragon"
+	quest.7A04BBA69767271B.title: "Miniaturization"
 	task.21005B69FD0A353B.title: "Welcome!"
+	task.3749768847A9297C.title: "Simulations of Death"
 }

@@ -3,8 +3,134 @@
 	default_quest_shape: ""
 	filename: "hostile_neural_networks"
 	group: "579D1BF1C205E35E"
-	id: "64B11C1B223D868D"
-	order_index: 0
+	icon: {
+		id: "hostilenetworks:sim_chamber"
+	}
+	id: "3E27FC2279702C85"
+	images: [
+		{
+			height: 6.5d
+			image: "hostilenetworks:textures/item/deep_learner.png"
+			rotation: 0.0d
+			width: 6.5d
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			height: 6.5d
+			image: "hostilenetworks:item/prediction_matrix"
+			rotation: 0.0d
+			width: 6.5d
+			x: 5.5d
+			y: 2.5d
+		}
+	]
+	order_index: 3
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			icon: {
+				id: "hostilenetworks:twilight_prediction"
+			}
+			id: "12A52AA433202D12"
+			tasks: [{
+				id: "3749768847A9297C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["12A52AA433202D12"]
+			id: "43FF992D0310FED5"
+			tasks: [{
+				id: "27B4371C1ACB6277"
+				item: { count: 1, id: "hostilenetworks:deep_learner" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["12A52AA433202D12"]
+			id: "0D92AB3C092D432C"
+			tasks: [{
+				id: "2C7734480FC9C96C"
+				item: { count: 1, id: "hostilenetworks:blank_data_model" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"47ADEA81AEC25E3A"
+				"43FF992D0310FED5"
+				"0D92AB3C092D432C"
+			]
+			id: "252932E306C0C691"
+			rewards: [{
+				count: 64
+				id: "28558FBAB76B0067"
+				type: "item"
+			}]
+			tasks: [{
+				id: "450E080A5A2724BA"
+				item: { count: 1, id: "hostilenetworks:sim_chamber" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12A52AA433202D12"]
+			id: "47ADEA81AEC25E3A"
+			tasks: [{
+				id: "66B91B2840FBD327"
+				item: { count: 1, id: "hostilenetworks:prediction_matrix" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["252932E306C0C691"]
+			id: "143429D263B78A45"
+			tasks: [{
+				id: "521D082352FB5746"
+				item: { count: 1, id: "hostilenetworks:loot_fabricator" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["252932E306C0C691"]
+			id: "68F7F65CF45DBF53"
+			tasks: [
+				{
+					id: "51D33C95B46FCA49"
+					item: { count: 1, id: "hostilenetworks:overworld_prediction" }
+					type: "item"
+				}
+				{
+					id: "50436FF42DD8BDCD"
+					item: { count: 1, id: "hostilenetworks:nether_prediction" }
+					type: "item"
+				}
+				{
+					id: "025265368968F8BA"
+					item: { count: 1, id: "hostilenetworks:end_prediction" }
+					type: "item"
+				}
+				{
+					id: "74BBF667B26AB2C1"
+					item: { count: 1, id: "hostilenetworks:twilight_prediction" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 4.0d
+		}
+	]
 }

@@ -4,7 +4,7 @@
 	filename: "mob_grinding_utils"
 	group: "579D1BF1C205E35E"
 	id: "735610CDFD2C45D3"
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [ ]
 }
