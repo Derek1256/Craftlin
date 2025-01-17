@@ -27,6 +27,10 @@
         {
             "id": "minecraft:echo_shard",
             "count": 2
+        },
+        {
+            "id": "minecraft:sculk_catalyst",
+            "count": 1
         }
     ]
 }
