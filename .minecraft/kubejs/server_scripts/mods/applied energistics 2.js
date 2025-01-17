@@ -150,6 +150,21 @@ ServerEvents.recipes(craftlin => {
         }
       })
 
+      // this is dumb
+      const aecolor = [
+        'white', 'yellow', 'orange', 'red', 'pink', 'magenta', 'purple', 'light_blue', 'cyan', 'blue', 'lime', 'green', 'brown', 'light_gray', 'gray', 'black'
+    ];
+
+    aecolor.forEach(color => {
+        craftlin.shapeless(`4x ae2:${color}_covered_cable`, [`ae2:${color}_covered_dense_cable`]).id(`craftlin:ae2/${color}_dense_covered_to_normal`);
+        craftlin.shapeless(`4x ae2:${color}_smart_cable`, [`ae2:${color}_smart_dense_cable`]).id(`craftlin:ae2/${color}_smart_covered_to_normal`);
+        craftlin.shapeless(`ae2:${color}_covered_dense_cable`, [`4x ae2:${color}_covered_cable`]).id(`craftlin:ae2/${color}_covered_to_dense`);
+        craftlin.shapeless(`ae2:${color}_smart_dense_cable`, [`4x ae2:${color}_smart_cable`]).id(`craftlin:ae2/${color}_smart_to_dense`);
+    });
+
+    craftlin.shapeless(` 4x ae2:fluix_covered_cable`,[`ae2:fluix_covered_dense_cable`]).id(`craftlin:ae2/dense_to_normal`)
+    craftlin.shapeless(` 4x ae2:fluix_smart_cable`,[`ae2:fluix_smart_dense_cable`]).id(`craftlin:ae2/smart_dense_to_smart_normal`)
+
 
 
 

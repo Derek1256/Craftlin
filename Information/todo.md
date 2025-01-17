@@ -3,8 +3,13 @@ Recipes todo:
 * Figure out why extendedcrafting doesnt want to let me do MMR machines as a processing result
 * Rework EasyVillagers recipe.
 * Make angel ring more expensive
-* make metallurgic infuser take steel casing
+ 
 * Gate Quantum Crafter
+
+
+
+
+
 
 
 * * * 

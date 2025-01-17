@@ -12,6 +12,7 @@ ServerEvents.recipes(craftlin => {
         B: 'mekanism:pellet_polonium', 
         C: 'powah:reactor_nitro' }).id('craftlin:mekanism/fusion_reactor_frame')
         
+    craftlin.shaped(Item.of('mekanism:metallurgic_infuser', 1), ['ABA', 'CDC', 'ABA'], {A: 'minecraft:iron_ingot', B: 'minecraft:furnace', C: 'minecraft:redstone', D: 'mekanism:steel_casing' })
     // Crushers
     
     let crusher = craftlin.recipes.mekanism.crushing

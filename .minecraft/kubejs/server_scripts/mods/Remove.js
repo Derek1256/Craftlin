@@ -71,7 +71,8 @@ const removerecipebyid = [
     'easy_villagers:iron_farm',
     'ae2:network/blocks/controller',
     'ae2:network/blocks/energy_energy_acceptor',
-    'alltheores:crafting/steel/alloy_blending_from_dust'
+    'alltheores:crafting/steel/alloy_blending_from_dust',
+    'mekanism:metallurgic_infuser'
 ]
 ServerEvents.recipes(craftlin => {
     removerecipebyid.forEach((recipe) => {
