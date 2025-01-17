@@ -5,6 +5,7 @@
 	chapter.026FF2CBB0592817.title: "Basic Machinery"
 	chapter.0717E10EEF52E8C4.title: "Refined Storage"
 	chapter.084F324F0B52B211.title: "The Beginning"
+	chapter.12FBA6943929F957.title: "Craftlin Customs"
 	chapter.22447DADD5A1C813.title: "Modern Industralization"
 	chapter.2AA2025AB1BDB579.title: "Mekanism"
 	chapter.3E27FC2279702C85.chapter_subtitle: ["Mob Farms Without Mob Farms"]
@@ -42,6 +43,17 @@
 	quest.12A72F57D6B70093.quest_subtitle: "Echo!"
 	quest.143429D263B78A45.quest_desc: ["Used to mass produce various items from pristine predictions."]
 	quest.143429D263B78A45.quest_subtitle: "The Money-Maker"
+	quest.146FDAA30F868ED8.quest_desc: [
+		"&1This is it. the start of everthing of Good Multiblocks. &r"
+		""
+		""
+		"&5This material can only be gotten from the Ender Dragon or MA Seeds. and for the sake of your sanity, i will give you 98% of the draconium needed for the seed. as you need 262 and i am not feeling that mean to make u do that. while it would be a nice automation challenge, that is absurd.&r"
+		""
+		""
+		"&bHope you all enjoy the future progression after this stage, and mek reactors will be nerfed in the future.&r"
+	]
+	quest.146FDAA30F868ED8.quest_subtitle: "This is it. The start of everything."
+	quest.146FDAA30F868ED8.title: "Draconium Dust"
 	quest.219A76C3E80C6D96.quest_desc: ["11x11x11"]
 	quest.219A76C3E80C6D96.quest_subtitle: "You Could Fit A House in Here"
 	quest.252932E306C0C691.quest_desc: ["The Simulation Chamber is used to run simulations. As long as their is a model inside it and prediction matrixs are supplied, it will produce generalized and pristine predictions."]
@@ -66,6 +78,7 @@
 	quest.7A04BBA69767271B.quest_desc: ["Compact Machines is used primarily to store large amounts of machines in small spaces via pocket dimensions. You can access these pocket dimensions using a Personal Shrinking Device."]
 	quest.7A04BBA69767271B.quest_subtitle: "Honey, I Shrunk The Ender Dragon"
 	quest.7A04BBA69767271B.title: "Miniaturization"
+	reward.7197979213B431D1.title: "The Worlds most annoying item to get"
 	task.21005B69FD0A353B.title: "Welcome!"
 	task.3749768847A9297C.title: "Simulations of Death"
 }

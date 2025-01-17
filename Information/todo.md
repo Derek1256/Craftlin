@@ -2,15 +2,15 @@ Recipes todo:
 * make the new builder recipe
 * Figure out why extendedcrafting doesnt want to let me do MMR machines as a processing result
 * Rework EasyVillagers recipe.
-
-
-
+* Make angel ring more expensive
+* make metallurgic infuser take steel casing
+* Gate Quantum Crafter
 
 
 * * * 
 
 Config Changes todo:
-* Nerf Gas burning gen to around 10kfe/t
+
 
 
 * * * 

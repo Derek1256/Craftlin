@@ -1,0 +1,47 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "craftlin_customs"
+	group: "4C480122E6216927"
+	id: "12FBA6943929F957"
+	images: [{
+		height: 7.0d
+		image: "craftlin:textures/gui/biglogo.png"
+		rotation: 0.0d
+		width: 19.3d
+		x: -3.0d
+		y: -4.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "146FDAA30F868ED8"
+		rewards: [{
+			count: 240
+			id: "7197979213B431D1"
+			item: {
+				count: 1
+				id: "craftlin:draconium_ingot_dust"
+			}
+			team_reward: true
+			type: "item"
+		}]
+		size: 2.0d
+		tasks: [
+			{
+				count: 16L
+				id: "189FE27CE703E754"
+				item: { count: 1, id: "craftlin:draconium_ingot_dust" }
+				type: "item"
+			}
+			{
+				entity: "minecraft:ender_dragon"
+				id: "723740414490BE22"
+				type: "kill"
+				value: 16L
+			}
+		]
+		x: -4.0d
+		y: 0.5d
+	}]
+}
