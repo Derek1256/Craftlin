@@ -4,7 +4,7 @@ Recipes todo:
 * Rework EasyVillagers recipe.
 * Make angel ring more expensive (MAKE COST NETHER STARS)
 * Gate Quantum Crafter (WYVERN CORE PROBABLY)
-* Change PNC trasistor recipe to include MI Transistor.
+* Change PNC transistor recipe to include MI Transistor.
 * change PNC capacitor recipe to include either MI, powah, or enderios capacitor.
 * Change Enderio Capacitor recipes to either be empowerer or some other machine. instead of crafting table
 

@@ -173,4 +173,16 @@ ServerEvents.recipes(craftlin => {
 
 
 })
+
+
+
+
+
+
+
+// Attempt to remove ae2s villager trades
+MoreJS.villagerTrades(craftlin => {
+  craftlin.removeVanillaTypedTrades(["ae2:fluix_researcher"], [1, 5])
+})
+
 console.log('Server Scripts/Mods: Applied Energistics 2.js is loaded!')
