@@ -72,7 +72,8 @@ const removerecipebyid = [
     'ae2:network/blocks/controller',
     'ae2:network/blocks/energy_energy_acceptor',
     'alltheores:crafting/steel/alloy_blending_from_dust',
-    'mekanism:metallurgic_infuser'
+    'mekanism:metallurgic_infuser',
+    'reliquary:alkashestry_tome'
 ]
 ServerEvents.recipes(craftlin => {
     removerecipebyid.forEach((recipe) => {

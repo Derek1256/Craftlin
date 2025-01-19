@@ -1,12 +1,15 @@
 {
 	chapter.00104D1586DD4FDD.title: "Immersive Engineering"
-	chapter.018680B63FDDE8A2.title: "Starter Mekanism"
 	chapter.021D93D3660202F9.title: "Apotheosis"
 	chapter.026FF2CBB0592817.title: "Basic Machinery"
 	chapter.0717E10EEF52E8C4.title: "Refined Storage"
 	chapter.084F324F0B52B211.title: "The Beginning"
+	chapter.0E81CBCD6B1D1895.chapter_subtitle: ["Hope you brought your OP Mob Grinder!"]
+	chapter.0E81CBCD6B1D1895.title: "Apothic Spawners"
 	chapter.12FBA6943929F957.title: "Craftlin Customs"
 	chapter.22447DADD5A1C813.title: "Modern Industralization"
+	chapter.23983F4DC524B14B.chapter_subtitle: ["Do you like fast machines?"]
+	chapter.23983F4DC524B14B.title: "Mekanism"
 	chapter.2AA2025AB1BDB579.title: "Mekanism"
 	chapter.3E27FC2279702C85.chapter_subtitle: ["Mob Farms Without Mob Farms"]
 	chapter.3E27FC2279702C85.title: "Hostile Neural Networks"
@@ -28,10 +31,13 @@
 	chapter_group.579D1BF1C205E35E.title: "Mob Tree"
 	chapter_group.6E3DA606753986E0.title: "Getting started"
 	file.0000000000000001.title: "Project: Craftlin"
+	quest.07AD45DCF9EE3C2E.quest_desc: ["3 Slot machines instead of 1."]
 	quest.0D92AB3C092D432C.quest_desc: ["Click on a mob with this item to create a faulty model of it, which will need to be upgraded to basic before it can be used."]
 	quest.0D92AB3C092D432C.quest_subtitle: "CTRL-C"
+	quest.0F326EEEC2EBE4E5.quest_desc: ["Enriched Materials can 8x your infusing material, Which can be very useful if you are running low on infusing material, or crafting circuits."]
 	quest.0F3D56A55864F8D2.quest_desc: ["5x5x5"]
 	quest.0F3D56A55864F8D2.quest_subtitle: "A Little More Space"
+	quest.1112E4E2CCEB2467.quest_desc: ["Make some Hydrogen chloride, for 4x ore processing."]
 	quest.128ED3E3CBDB9F81.quest_desc: ["Tunnels can be used to transfer items, fluids, and enery in and out of compact machines"]
 	quest.128ED3E3CBDB9F81.quest_subtitle: "Poking Holes"
 	quest.128ED3E3CBDB9F81.title: "Tunnels"
@@ -54,18 +60,28 @@
 	quest.146FDAA30F868ED8.title: "Draconium Dust"
 	quest.219A76C3E80C6D96.quest_desc: ["11x11x11"]
 	quest.219A76C3E80C6D96.quest_subtitle: "You Could Fit A House in Here"
+	quest.220C38510116BF36.quest_desc: ["9 slots instead of 7"]
+	quest.23F165DEAD225B10.quest_desc: ["Powahhhhhhhhhhhhhhhhhh Transfer"]
 	quest.252932E306C0C691.quest_desc: ["The Simulation Chamber is used to run simulations. As long as their is a model inside it and prediction matrixs are supplied, it will produce generalized and pristine predictions."]
 	quest.252932E306C0C691.quest_subtitle: "Bitcoin Miner (Real)"
+	quest.2EF4DD5CC254CC80.quest_desc: ["Fluid transfer"]
+	quest.310969B8FE0A94DE.quest_desc: ["Apotheosis.....The most broken yet amazing mods out there."]
+	quest.310969B8FE0A94DE.quest_subtitle: "Hope you brought your OP mob killer!"
+	quest.3E30EC9CA875A1F9.quest_desc: ["7 slots instead of 5."]
 	quest.41F4ADAF22ACBAB7.quest_desc: ["7x7x7"]
 	quest.41F4ADAF22ACBAB7.quest_subtitle: "Room To Breathe"
 	quest.43FF992D0310FED5.quest_desc: ["Once you aquire a faulty data model, insert it into the Deep Learner and kill six mobs of the same type in order to upgrade the model to a basic data model."]
 	quest.43FF992D0310FED5.quest_subtitle: "4D Chess"
+	quest.4434D7B66521D69A.quest_desc: ["Gas transfering"]
 	quest.47ADEA81AEC25E3A.quest_desc: ["Prediction Matrix's are a consumable resource used to run simulations. You'll need a lot of this."]
 	quest.47ADEA81AEC25E3A.quest_subtitle: "Neo"
+	quest.493FAE3A6088518E.quest_desc: ["5 slot machines instead of 3."]
 	quest.5136035CFA9005FA.quest_desc: ["Welcome to Project: Craftlin, Hope you have fun, Quests are a WIP so expect alot to not have descriptions."]
 	quest.5136035CFA9005FA.quest_subtitle: "Not sure what to write here"
 	quest.51C1AE4199982ABD.quest_desc: ["The lowest tier of Compact Machines, place it in the world and click on it with a personal shrinking device to access a 3x3x3 pocket dimension. To exit, simply click the shrinking device again. Each subsequent tier of Compact Machines will have a larger room than the last"]
 	quest.51C1AE4199982ABD.quest_subtitle: "Cramped"
+	quest.531E3FF1F2865C67.quest_desc: ["Heat Transfer"]
+	quest.5B681BC43371CC5C.quest_desc: ["Item transfering"]
 	quest.64A97E76047F81CF.quest_desc: ["Compact Machine Walls are the building blocks of Compact Machines."]
 	quest.64A97E76047F81CF.quest_subtitle: "Compactorio"
 	quest.6584400ED48F22F5.quest_desc: ["9x9x9"]

@@ -174,13 +174,8 @@ ServerEvents.recipes(craftlin => {
 
 })
 
+// Remove fluix researcher trades for balance reasons
 
-
-
-
-
-
-// Attempt to remove ae2s villager trades
 MoreJS.villagerTrades(craftlin => {
   craftlin.removeVanillaTypedTrades(["ae2:fluix_researcher"], [1, 5])
 })

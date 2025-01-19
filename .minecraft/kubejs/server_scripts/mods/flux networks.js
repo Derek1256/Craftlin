@@ -31,7 +31,8 @@ ServerEvents.recipes(craftlin => {
           }
         },
         "result": {
-          "id": "fluxnetworks:flux_core"
+          "id": "fluxnetworks:flux_core",
+          "count": 4,
         }
       })
 })
