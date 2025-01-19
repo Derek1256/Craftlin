@@ -4,12 +4,11 @@
 	chapter.026FF2CBB0592817.title: "Basic Machinery"
 	chapter.0717E10EEF52E8C4.title: "Refined Storage"
 	chapter.084F324F0B52B211.title: "The Beginning"
-	chapter.0E81CBCD6B1D1895.chapter_subtitle: ["Hope you brought your OP Mob Grinder!"]
-	chapter.0E81CBCD6B1D1895.title: "Apothic Spawners"
 	chapter.12FBA6943929F957.title: "Craftlin Customs"
 	chapter.22447DADD5A1C813.title: "Modern Industralization"
 	chapter.23983F4DC524B14B.chapter_subtitle: ["Do you like fast machines?"]
 	chapter.23983F4DC524B14B.title: "Mekanism"
+	chapter.273EB28BE0543589.title: "Apothic Spawners"
 	chapter.2AA2025AB1BDB579.title: "Mekanism"
 	chapter.3E27FC2279702C85.chapter_subtitle: ["Mob Farms Without Mob Farms"]
 	chapter.3E27FC2279702C85.title: "Hostile Neural Networks"
@@ -81,6 +80,7 @@
 	quest.51C1AE4199982ABD.quest_desc: ["The lowest tier of Compact Machines, place it in the world and click on it with a personal shrinking device to access a 3x3x3 pocket dimension. To exit, simply click the shrinking device again. Each subsequent tier of Compact Machines will have a larger room than the last"]
 	quest.51C1AE4199982ABD.quest_subtitle: "Cramped"
 	quest.531E3FF1F2865C67.quest_desc: ["Heat Transfer"]
+	quest.55CD859AA96E970B.quest_desc: ["The Single greatest mob spawning mod in existence."]
 	quest.5B681BC43371CC5C.quest_desc: ["Item transfering"]
 	quest.64A97E76047F81CF.quest_desc: ["Compact Machine Walls are the building blocks of Compact Machines."]
 	quest.64A97E76047F81CF.quest_subtitle: "Compactorio"
