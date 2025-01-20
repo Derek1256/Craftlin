@@ -15,6 +15,7 @@
 	chapter.3EF4C9165C296E43.title: "Just Dire Things"
 	chapter.50084EA3F7480807.title: "Bloody Processors"
 	chapter.56C17A11E2BF2E89.title: "Starting Out"
+	chapter.5DCD240D4E07E9CB.title: "Celestial Being"
 	chapter.5E63D66A067364C6.title: "Gateways To Enternity"
 	chapter.64B11C1B223D868D.chapter_subtitle: ["Digitalized Mob Farming!"]
 	chapter.64B11C1B223D868D.title: "Hostile Neural Networks"
@@ -25,6 +26,7 @@
 	chapter_group.267B556CDECE3865.title: "Technology Tree"
 	chapter_group.2D2D388205C93436.title: "Storage Solutions"
 	chapter_group.39C13582399FE755.title: "Misc"
+	chapter_group.3D09F29E67574381.title: "The Chapters"
 	chapter_group.4C480122E6216927.title: "Modular Machinery"
 	chapter_group.5604E0A268E8286D.title: "Information"
 	chapter_group.579D1BF1C205E35E.title: "Mob Tree"
@@ -57,6 +59,8 @@
 	]
 	quest.146FDAA30F868ED8.quest_subtitle: "This is it. The start of everything."
 	quest.146FDAA30F868ED8.title: "Draconium Dust"
+	quest.175D83838A0F405F.quest_desc: ["This item adds echoing SMH"]
+	quest.175D83838A0F405F.quest_subtitle: "*echo*, echo*, echo* incase u dont get it, im echoing."
 	quest.219A76C3E80C6D96.quest_desc: ["11x11x11"]
 	quest.219A76C3E80C6D96.quest_subtitle: "You Could Fit A House in Here"
 	quest.220C38510116BF36.quest_desc: ["9 slots instead of 7"]
@@ -66,7 +70,9 @@
 	quest.2EF4DD5CC254CC80.quest_desc: ["Fluid transfer"]
 	quest.310969B8FE0A94DE.quest_desc: ["Apotheosis.....The most broken yet amazing mods out there."]
 	quest.310969B8FE0A94DE.quest_subtitle: "Hope you brought your OP mob killer!"
+	quest.3720233F2575FB34.quest_subtitle: "baby spawns only."
 	quest.3E30EC9CA875A1F9.quest_desc: ["7 slots instead of 5."]
+	quest.403B080C891FC3E7.quest_subtitle: "-5% Initial Health per."
 	quest.41F4ADAF22ACBAB7.quest_desc: ["7x7x7"]
 	quest.41F4ADAF22ACBAB7.quest_subtitle: "Room To Breathe"
 	quest.43FF992D0310FED5.quest_desc: ["Once you aquire a faulty data model, insert it into the Deep Learner and kill six mobs of the same type in order to upgrade the model to a basic data model."]
@@ -74,6 +80,7 @@
 	quest.4434D7B66521D69A.quest_desc: ["Gas transfering"]
 	quest.47ADEA81AEC25E3A.quest_desc: ["Prediction Matrix's are a consumable resource used to run simulations. You'll need a lot of this."]
 	quest.47ADEA81AEC25E3A.quest_subtitle: "Neo"
+	quest.47BA655B9C239116.quest_subtitle: "No more Light Demands!"
 	quest.493FAE3A6088518E.quest_desc: ["5 slot machines instead of 3."]
 	quest.5136035CFA9005FA.quest_desc: ["Welcome to Project: Craftlin, Hope you have fun, Quests are a WIP so expect alot to not have descriptions."]
 	quest.5136035CFA9005FA.quest_subtitle: "Not sure what to write here"
@@ -82,6 +89,9 @@
 	quest.531E3FF1F2865C67.quest_desc: ["Heat Transfer"]
 	quest.55CD859AA96E970B.quest_desc: ["The Single greatest mob spawning mod in existence."]
 	quest.5B681BC43371CC5C.quest_desc: ["Item transfering"]
+	quest.5D1675DF27EC527C.quest_subtitle: "Burn your entities on spawn"
+	quest.5EE28F3CB24512B2.quest_desc: ["This is it. Welcome to Project: Craftlin, this will hopefully turn into  being the main Quest Line \\& chapter group for the progression system."]
+	quest.62DC03FF20ACF1A0.quest_subtitle: "Your gunna love this, Mobs spawn with no ai!"
 	quest.64A97E76047F81CF.quest_desc: ["Compact Machine Walls are the building blocks of Compact Machines."]
 	quest.64A97E76047F81CF.quest_subtitle: "Compactorio"
 	quest.6584400ED48F22F5.quest_desc: ["9x9x9"]
@@ -89,6 +99,9 @@
 	quest.68F7F65CF45DBF53.quest_desc: ["Generalized Predictions are byproducts of simulations. They can be used to create low-value items related to their respective type."]
 	quest.68F7F65CF45DBF53.quest_subtitle: "Is That Cake?"
 	quest.68F7F65CF45DBF53.title: "Generalized Predictions"
+	quest.6A417FC9B6A7E264.quest_desc: ["Redstone control"]
+	quest.6A417FC9B6A7E264.quest_subtitle: "Redstone Control"
+	quest.73BA0798AAA4C275.quest_subtitle: "Silence! Peasents"
 	quest.7A04BBA69767271B.quest_desc: ["Compact Machines is used primarily to store large amounts of machines in small spaces via pocket dimensions. You can access these pocket dimensions using a Personal Shrinking Device."]
 	quest.7A04BBA69767271B.quest_subtitle: "Honey, I Shrunk The Ender Dragon"
 	quest.7A04BBA69767271B.title: "Miniaturization"

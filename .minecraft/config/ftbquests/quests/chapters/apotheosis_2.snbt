@@ -27,6 +27,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "47BA655B9C239116"
 			tasks: [{
 				id: "47D5AC28B05EA89B"
@@ -37,6 +38,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "6EA68AB1E2FE5A18"
 			tasks: [{
 				id: "13B58D978CB223BB"
@@ -47,6 +49,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "47DD97A4922F548D"
 			tasks: [{
 				id: "6DFB7B84C5238B52"
@@ -57,6 +60,7 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "62DC03FF20ACF1A0"
 			tasks: [{
 				id: "59306151270879B2"
@@ -67,6 +71,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "3720233F2575FB34"
 			tasks: [{
 				id: "6FAC3E40AA09F131"
@@ -77,6 +82,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "694E6C02924BA85F"
 			tasks: [{
 				id: "49DB2DA8F81CA7B5"
@@ -87,6 +93,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "6A417FC9B6A7E264"
 			tasks: [{
 				id: "6A52C540EE909ED5"
@@ -97,6 +104,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "64D17CC55E36A387"
 			tasks: [{
 				id: "2728E1FC90D428AE"
@@ -107,6 +115,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "2A516CFD5BA191CE"
 			tasks: [{
 				id: "7AA84B597F10AFD6"
@@ -117,6 +126,7 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "6231887654DC3459"
 			tasks: [{
 				id: "25777B52471E65CA"
@@ -127,6 +137,7 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "55D2F76A0634F2CE"
 			tasks: [{
 				id: "6BC62E9CDFD09477"
@@ -137,6 +148,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "4238FC1C758616C3"
 			tasks: [{
 				id: "3C2A3CAB4359FC84"
@@ -147,6 +159,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "6BAEB7FE5C5B59ED"
 			tasks: [{
 				id: "043F8CA187FAB39B"
@@ -157,19 +170,21 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			icon: {
 				id: "minecraft:white_wool"
 			}
 			id: "73BA0798AAA4C275"
 			tasks: [{
 				id: "6E35F287A2B27C21"
-				item: { components: { "ftbquests:missing_item": "ftbfiltersystem:smart_filter" }, count: 1, id: "ftbquests:missing_item" }
+				item: { count: 1, id: "minecraft:white_wool" }
 				type: "item"
 			}]
 			x: 4.0d
 			y: 2.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "175D83838A0F405F"
 			tasks: [{
 				id: "0B55BCD89EB56622"
@@ -180,6 +195,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			dependency_requirement: "one_completed"
 			id: "403B080C891FC3E7"
 			tasks: [{
@@ -191,6 +207,7 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["55CD859AA96E970B"]
 			id: "5D1675DF27EC527C"
 			tasks: [{
 				id: "35B927BD6673B8D8"

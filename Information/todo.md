@@ -2,11 +2,8 @@ Recipes todo:
 * make the new builder recipe
 * Figure out why extendedcrafting doesnt want to let me do MMR machines as a processing result (NTO SURE HOW TO FIX, MAY NEED TO CONTACT THE DEV)
 * Rework EasyVillagers recipe.
-* Make angel ring more expensive (MAKE COST NETHER STARS)
-* Gate Quantum Crafter (WYVERN CORE PROBABLY)
 * Change PNC transistor recipe to include MI Transistor.
-* change PNC capacitor recipe to include either MI, powah, or enderios capacitor.
-* Change Enderio Capacitor recipes to either be empowerer or some other machine. instead of crafting table
+* Change Basic Capacitor recipe
 
 
 
@@ -33,7 +30,10 @@ Multiblocks todo:
         * Infusing Factory
         * Enriching Factory
 
+* Void Miners
+        * Tier 1-10
 
+        
 * * * 
 
 Any other scripts todo:

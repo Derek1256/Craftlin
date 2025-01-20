@@ -165,7 +165,42 @@ ServerEvents.recipes(craftlin => {
     craftlin.shapeless(` 4x ae2:fluix_covered_cable`,[`ae2:fluix_covered_dense_cable`]).id(`craftlin:ae2/dense_to_normal`)
     craftlin.shapeless(` 4x ae2:fluix_smart_cable`,[`ae2:fluix_smart_dense_cable`]).id(`craftlin:ae2/smart_dense_to_smart_normal`)
 
+    // Quantum Crafter
 
+    craftlin.custom({
+      "type": "extendedcrafting:shaped_table",
+      "tier": 2,
+      "pattern": [
+        "ABCBA",
+        "BDEDB",
+        "CEFEC",
+        "BDEDB",
+        "ABCBA"
+      ],
+      "key": {
+        "A": {
+          "item": "advanced_ae:quantum_processor"
+        },
+        "B": {
+          "item": "advanced_ae:quantum_alloy_plate"
+        },
+        "C": {
+          "item": "craftlin:wyvern_core"
+        },
+        "D": {
+          "item": "craftlin:draconium_ingot"
+        },
+        "E": {
+          "item": "advanced_ae:quantum_unit"
+        },
+        "F": {
+          "item": "extendedae:assembler_matrix_crafter"
+        }
+      },
+      "result": {
+        "id": "advanced_ae:quantum_crafter"
+      }
+    })
 
 
 

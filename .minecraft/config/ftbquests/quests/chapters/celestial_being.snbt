@@ -1,0 +1,28 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "celestial_being"
+	group: "3D09F29E67574381"
+	id: "5DCD240D4E07E9CB"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "5EE28F3CB24512B2"
+		rewards: [{
+			id: "4F73C7F9C3C02523"
+			type: "xp_levels"
+			xp_levels: 16
+		}]
+		tasks: [{
+			dimension: "minecraft:overworld"
+			disable_toast: true
+			icon: {
+				id: "craftlin:ice_draconium_ingot"
+			}
+			id: "6D2F35AA42B01D5B"
+			type: "dimension"
+		}]
+		x: -1.5d
+		y: 1.0d
+	}]
+}

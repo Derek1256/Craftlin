@@ -1,7 +1,7 @@
 {
 	"type": "apothic_spawners:spawner_modifier",
 	"mainhand": {
-		"item": "craftlin:ice_draconium"
+		"item": "craftlin:ice_draconium_ingot"
 	},
 	"stat_changes": [{
 		"type": "apothic_spawners:min_delay",
