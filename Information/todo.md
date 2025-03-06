@@ -2,9 +2,8 @@ Recipes todo:
 * make the new builder recipe
 * Figure out why extendedcrafting doesnt want to let me do MMR machines as a processing result (NTO SURE HOW TO FIX, MAY NEED TO CONTACT THE DEV)
 * Rework EasyVillagers recipe.
-* Change PNC transistor recipe to include MI Transistor.
 * Change Basic Capacitor recipe
-
+* Change Machine Frame Recipe (RFTools)
 
 
 

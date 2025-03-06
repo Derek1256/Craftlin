@@ -78,7 +78,8 @@ const removerecipebyid = [
     'modular_angelring:gold_ring',
     'justdirethings:upgrade_flight',
     'enderio:double_layer_capacitor',
-    'enderio:octadic_capacitor'
+    'enderio:octadic_capacitor',
+    'mekanism:digital_miner'
 ]
 ServerEvents.recipes(craftlin => {
     removerecipebyid.forEach((recipe) => {

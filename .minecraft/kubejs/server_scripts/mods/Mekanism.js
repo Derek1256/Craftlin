@@ -82,5 +82,15 @@ ServerEvents.recipes(craftlin => {
       }).id('craftlin:mekanism/infusing/basic_control_circuit')
 
 
+      // Digital miner
+    craftlin.shaped(Item.of('mekanism:digital_miner', 1), ['ABA', 'CDC', 'EFE'], { A: 'mekanism:alloy_atomic', B: 'mekanism:basic_control_circuit', C: 'mekanism:logistical_sorter', D: 'mekanism:robit', E: 'mekanism:teleportation_core', F: 'rftoolsbuilder:builder' })
+
+
+
+
+
+
+
+
 })
 console.log('Initialized Mekanism.js!')

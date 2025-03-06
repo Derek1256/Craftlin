@@ -1,0 +1,15 @@
+{
+    "item_settings": {
+      "display_name": {
+        "type": "translatable",
+        "translate": "craftlin.pack_guide"
+      },
+      "tooltip_lines": [
+        {
+          "text": "Guide For Project: Craftlin",
+          "color": "dark_gray"
+        }
+      ],
+      "model": "craftlin:item/guide"
+    }
+  }
