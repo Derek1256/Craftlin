@@ -10,13 +10,7 @@
 
 Welcome to Project: Craftlin! This is a heavy technology focused modpack (barely any magic!) The goal of the modpack is too 100% the questbook, and make the creative tab icon.
 
-* * *
-
-![image](https://media.forgecdn.net/attachments/description/1144729/description_8813f1bf-42a5-48c5-bd33-27595ef2e192.png)
-
-* * *
-
-Our features are:
+# $$\text{\color{orange}{Features}}$$
 
 *   A extensive Questbook (coming soonish)
 *   Custom Void Miner
@@ -25,11 +19,7 @@ Our features are:
 *   Buffed AdvancedAE Quantum Computers
 *   Soon to have tons of custom machines & Multiblocks to spice up the endgame
 
-* * *
-
-![image](https://media.forgecdn.net/attachments/description/1144729/description_64e3e50a-e026-474b-8e74-e9c8d6f93d7d.png)
-
-* * *
+# $$\text{\color{orange}{Credits}}$$
 
 I must give Credits where its due:
 
