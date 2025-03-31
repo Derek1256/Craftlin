@@ -47,28 +47,16 @@ ServerEvents.recipes(craftlin => {
 
     // Infushonnnnnnnnnnnnnn
     
-    craftlin.custom({
-        "type": "mekanism:metallurgic_infusing",
-        "chemical_input": {
-          "amount": 40,
-          "tag": "mekanism:redstone"
-        },
-        "item_input": {
-          "count": 1,
-          "item": "pneumaticcraft:capacitor"
-        },
-        "output": {
-          "count": 1,
-          "id": "mekanism:alloy_infused"
-        },
-        "per_tick_usage": false
-      }).id('craftlin:mekanism/infusing/infused_alloy')
+    let infusion = craftlin.recipes.mekanismMetallurgicInfusing
+
+    infusion("mekanism:alloy_infused", "pneumaticcraft:capacitor", "craftlin:redstone_mixture", '40')
+    infusion("mekanism:basic_control_circuit", "pneumaticcraft:transistor", "craftlin:redstone_mixture", '80')
 
     craftlin.custom({
         "type": "mekanism:metallurgic_infusing",
         "chemical_input": {
           "amount": 80,
-          "tag": "mekanism:redstone"
+          "tag": "craftlin:redstone_mixture"
         },
         "item_input": {
           "count": 1,
@@ -83,7 +71,10 @@ ServerEvents.recipes(craftlin => {
 
 
       // Digital miner
-    craftlin.shaped(Item.of('mekanism:digital_miner', 1), ['ABA', 'CDC', 'EFE'], { A: 'mekanism:alloy_atomic', B: 'mekanism:basic_control_circuit', C: 'mekanism:logistical_sorter', D: 'mekanism:robit', E: 'mekanism:teleportation_core', F: 'rftoolsbuilder:builder' })
+    craftlin.shaped(Item.of('mekanism:digital_miner', 1), 
+    ['ABA', 'CDC', 'EFE'], 
+    { A: 'mekanism:alloy_atomic', B: 'mekanism:basic_control_circuit', C: 'mekanism:logistical_sorter', 
+      D: 'mekanism:robit', E: 'mekanism:teleportation_core', F: 'rftoolsbuilder:builder' })
 
 
 
