@@ -18,8 +18,10 @@ StartupEvents.registry('mekanism:chemical', craftlin => {
 StartupEvents.registry('mekanism:chemical', craftlin => {
     craftlin.createCustom('craftlin:redstone_mixture', () => new $Chemical($ChemicalBuilder.infuseType()
     .tint(0xFF0000)))
+    craftlin.createCustom('craftlin:lavender_diamond', () => new $Chemical($ChemicalBuilder.infuseType()
+    .tint(0x18C3D6)))
+    craftlin.createCustom('craftlin:obsidrian', () => new $Chemical($ChemicalBuilder.infuseType()
+    .tint(0x5B2B78)))
 })
-
-
 
 // MADE FOR CRAFTLIN
