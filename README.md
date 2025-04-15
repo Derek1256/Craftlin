@@ -36,7 +36,7 @@ I must give Credits where its due:
 ```mermaid
 graph TD;
  
-    A(Setup Progression Tree)-->D(Figuring out kube stages & implementing it to the progression, [I am here]);
+    A(Setup Progression Tree)-->D(Figuring out kube stages & implementing it to the progression, **I am here**);
     B(Plan out Custom Machines)-->A;
     C(Update Todo list)-->D;
     D-->E(Prepparing 0.30);
