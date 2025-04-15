@@ -25,3 +25,22 @@ I must give Credits where its due:
 
 *   <span style="color:#e67e23">GT: New Horizons &amp; Twist Space Technology</span> (TST for the miracle top, GT:NH for the casing.
 *   <span style="color:#e67e23">Draconic Evolution</span> (For the Cores & Dragon Heart texture)
+
+
+
+
+* * *
+
+## Roadmap
+
+```mermaid
+graph TD;
+ 
+    A(Setup Progression Tree)-->D(Figuring out kube stages & implementing it to the progression);
+    B(Plan out Custom Machines)-->A;
+    C(Update Todo list)-->D;
+    D-->E(Prepparing 0.30);
+    F(Finish the custom mek gases & Add recipes)-->E;
+    G(Figure out the rest of the Progression i want to imeplement to 0.30)-->E;
+    E-->h(Releasing Craftlin 0.30);
+```
